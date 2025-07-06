@@ -1,0 +1,14 @@
+{
+  "national_dex": 314,
+  "ja": "イルミーゼ",
+  "en": "illumise",
+  "type_first": "虫",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
+  "base_h": 65,
+  "base_a": 47,
+  "base_b": 75,
+  "base_c": 73,
+  "base_d": 85,
+  "base_s": 85
+}

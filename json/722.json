@@ -1,0 +1,14 @@
+{
+  "national_dex": 722,
+  "ja": "モクロー",
+  "en": "rowlet",
+  "type_first": "草",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+  "base_h": 68,
+  "base_a": 55,
+  "base_b": 55,
+  "base_c": 50,
+  "base_d": 50,
+  "base_s": 42
+}

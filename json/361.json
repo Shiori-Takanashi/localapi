@@ -1,0 +1,14 @@
+{
+  "national_dex": 361,
+  "ja": "ユキワラシ",
+  "en": "snorunt",
+  "type_first": "氷",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+  "base_h": 50,
+  "base_a": 50,
+  "base_b": 50,
+  "base_c": 50,
+  "base_d": 50,
+  "base_s": 50
+}

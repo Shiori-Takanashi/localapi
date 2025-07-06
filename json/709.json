@@ -1,0 +1,14 @@
+{
+  "national_dex": 709,
+  "ja": "オーロット",
+  "en": "trevenant",
+  "type_first": "幽",
+  "type_second": "草",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png",
+  "base_h": 85,
+  "base_a": 110,
+  "base_b": 76,
+  "base_c": 65,
+  "base_d": 82,
+  "base_s": 56
+}

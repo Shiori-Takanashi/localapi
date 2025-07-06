@@ -1,0 +1,14 @@
+{
+  "national_dex": 796,
+  "ja": "デンジュモク",
+  "en": "xurkitree",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png",
+  "base_h": 83,
+  "base_a": 89,
+  "base_b": 71,
+  "base_c": 173,
+  "base_d": 71,
+  "base_s": 83
+}

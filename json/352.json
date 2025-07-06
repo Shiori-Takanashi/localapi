@@ -1,0 +1,14 @@
+{
+  "national_dex": 352,
+  "ja": "カクレオン",
+  "en": "kecleon",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png",
+  "base_h": 60,
+  "base_a": 90,
+  "base_b": 70,
+  "base_c": 60,
+  "base_d": 120,
+  "base_s": 40
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 113,
+  "ja": "ラッキー",
+  "en": "chansey",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+  "base_h": 250,
+  "base_a": 5,
+  "base_b": 5,
+  "base_c": 35,
+  "base_d": 105,
+  "base_s": 50
+}

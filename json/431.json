@@ -1,0 +1,14 @@
+{
+  "national_dex": 431,
+  "ja": "ニャルマー",
+  "en": "glameow",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png",
+  "base_h": 49,
+  "base_a": 55,
+  "base_b": 42,
+  "base_c": 42,
+  "base_d": 37,
+  "base_s": 85
+}

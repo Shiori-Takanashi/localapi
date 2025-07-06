@@ -1,0 +1,14 @@
+{
+  "national_dex": 227,
+  "ja": "エアームド",
+  "en": "skarmory",
+  "type_first": "鋼",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+  "base_h": 65,
+  "base_a": 80,
+  "base_b": 140,
+  "base_c": 40,
+  "base_d": 70,
+  "base_s": 70
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 619,
+  "ja": "コジョフー",
+  "en": "mienfoo",
+  "type_first": "格",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png",
+  "base_h": 45,
+  "base_a": 85,
+  "base_b": 50,
+  "base_c": 55,
+  "base_d": 50,
+  "base_s": 65
+}

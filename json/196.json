@@ -1,0 +1,14 @@
+{
+  "national_dex": 196,
+  "ja": "エーフィ",
+  "en": "espeon",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+  "base_h": 65,
+  "base_a": 65,
+  "base_b": 60,
+  "base_c": 130,
+  "base_d": 95,
+  "base_s": 110
+}

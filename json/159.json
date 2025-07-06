@@ -1,0 +1,14 @@
+{
+  "national_dex": 159,
+  "ja": "アリゲイツ",
+  "en": "croconaw",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+  "base_h": 65,
+  "base_a": 80,
+  "base_b": 80,
+  "base_c": 59,
+  "base_d": 63,
+  "base_s": 58
+}

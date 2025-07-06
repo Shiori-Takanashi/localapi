@@ -1,0 +1,14 @@
+{
+  "national_dex": 751,
+  "ja": "シズクモ",
+  "en": "dewpider",
+  "type_first": "水",
+  "type_second": "虫",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png",
+  "base_h": 38,
+  "base_a": 40,
+  "base_b": 52,
+  "base_c": 40,
+  "base_d": 72,
+  "base_s": 27
+}

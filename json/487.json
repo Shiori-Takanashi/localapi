@@ -1,0 +1,14 @@
+{
+  "national_dex": 487,
+  "ja": "ギラティナ",
+  "en": "giratina",
+  "type_first": "幽",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png",
+  "base_h": 150,
+  "base_a": 100,
+  "base_b": 120,
+  "base_c": 100,
+  "base_d": 120,
+  "base_s": 90
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 65,
+  "ja": "フーディン",
+  "en": "alakazam",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+  "base_h": 55,
+  "base_a": 50,
+  "base_b": 45,
+  "base_c": 135,
+  "base_d": 95,
+  "base_s": 120
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 482,
+  "ja": "アグノム",
+  "en": "azelf",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png",
+  "base_h": 75,
+  "base_a": 125,
+  "base_b": 70,
+  "base_c": 125,
+  "base_d": 70,
+  "base_s": 115
+}

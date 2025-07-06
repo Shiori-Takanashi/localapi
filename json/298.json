@@ -1,0 +1,14 @@
+{
+  "national_dex": 298,
+  "ja": "ルリリ",
+  "en": "azurill",
+  "type_first": "普",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+  "base_h": 50,
+  "base_a": 20,
+  "base_b": 40,
+  "base_c": 20,
+  "base_d": 40,
+  "base_s": 20
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 635,
+  "ja": "サザンドラ",
+  "en": "hydreigon",
+  "type_first": "悪",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
+  "base_h": 92,
+  "base_a": 105,
+  "base_b": 90,
+  "base_c": 125,
+  "base_d": 90,
+  "base_s": 98
+}

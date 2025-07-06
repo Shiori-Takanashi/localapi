@@ -1,0 +1,14 @@
+{
+  "national_dex": 691,
+  "ja": "ドラミドロ",
+  "en": "dragalge",
+  "type_first": "毒",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png",
+  "base_h": 65,
+  "base_a": 75,
+  "base_b": 90,
+  "base_c": 97,
+  "base_d": 123,
+  "base_s": 44
+}

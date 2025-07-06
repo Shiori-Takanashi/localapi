@@ -1,0 +1,14 @@
+{
+  "national_dex": 351,
+  "ja": "ポワルン",
+  "en": "castform",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png",
+  "base_h": 70,
+  "base_a": 70,
+  "base_b": 70,
+  "base_c": 70,
+  "base_d": 70,
+  "base_s": 70
+}

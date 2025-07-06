@@ -1,0 +1,14 @@
+{
+  "national_dex": 164,
+  "ja": "ヨルノズク",
+  "en": "noctowl",
+  "type_first": "普",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+  "base_h": 100,
+  "base_a": 50,
+  "base_b": 50,
+  "base_c": 86,
+  "base_d": 96,
+  "base_s": 70
+}

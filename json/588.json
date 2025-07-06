@@ -1,0 +1,14 @@
+{
+  "national_dex": 588,
+  "ja": "カブルモ",
+  "en": "karrablast",
+  "type_first": "虫",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+  "base_h": 50,
+  "base_a": 75,
+  "base_b": 45,
+  "base_c": 40,
+  "base_d": 45,
+  "base_s": 60
+}

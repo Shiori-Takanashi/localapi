@@ -1,0 +1,14 @@
+{
+  "national_dex": 632,
+  "ja": "アイアント",
+  "en": "durant",
+  "type_first": "虫",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png",
+  "base_h": 58,
+  "base_a": 109,
+  "base_b": 112,
+  "base_c": 48,
+  "base_d": 48,
+  "base_s": 109
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 570,
+  "ja": "ゾロア",
+  "en": "zorua",
+  "type_first": "悪",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+  "base_h": 40,
+  "base_a": 65,
+  "base_b": 40,
+  "base_c": 80,
+  "base_d": 40,
+  "base_s": 65
+}

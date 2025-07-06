@@ -1,0 +1,14 @@
+{
+  "national_dex": 430,
+  "ja": "ドンカラス",
+  "en": "honchkrow",
+  "type_first": "悪",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png",
+  "base_h": 100,
+  "base_a": 125,
+  "base_b": 52,
+  "base_c": 105,
+  "base_d": 52,
+  "base_s": 71
+}

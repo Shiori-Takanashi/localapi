@@ -1,0 +1,14 @@
+{
+  "national_dex": 714,
+  "ja": "オンバット",
+  "en": "noibat",
+  "type_first": "飛",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png",
+  "base_h": 40,
+  "base_a": 30,
+  "base_b": 35,
+  "base_c": 45,
+  "base_d": 40,
+  "base_s": 55
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 843,
+  "ja": "スナヘビ",
+  "en": "silicobra",
+  "type_first": "地",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png",
+  "base_h": 52,
+  "base_a": 57,
+  "base_b": 75,
+  "base_c": 35,
+  "base_d": 50,
+  "base_s": 46
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 768,
+  "ja": "グソクムシャ",
+  "en": "golisopod",
+  "type_first": "虫",
+  "type_second": "水",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png",
+  "base_h": 75,
+  "base_a": 125,
+  "base_b": 140,
+  "base_c": 60,
+  "base_d": 90,
+  "base_s": 40
+}

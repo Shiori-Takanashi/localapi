@@ -1,0 +1,14 @@
+{
+  "national_dex": 356,
+  "ja": "サマヨール",
+  "en": "dusclops",
+  "type_first": "幽",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
+  "base_h": 40,
+  "base_a": 70,
+  "base_b": 130,
+  "base_c": 60,
+  "base_d": 130,
+  "base_s": 25
+}

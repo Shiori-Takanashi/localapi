@@ -1,0 +1,14 @@
+{
+  "national_dex": 1018,
+  "ja": "ブリジュラス",
+  "en": "archaludon",
+  "type_first": "鋼",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1018.png",
+  "base_h": 90,
+  "base_a": 105,
+  "base_b": 130,
+  "base_c": 125,
+  "base_d": 65,
+  "base_s": 85
+}

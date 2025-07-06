@@ -1,0 +1,14 @@
+{
+  "national_dex": 805,
+  "ja": "ツンデツンデ",
+  "en": "stakataka",
+  "type_first": "岩",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
+  "base_h": 61,
+  "base_a": 131,
+  "base_b": 211,
+  "base_c": 53,
+  "base_d": 101,
+  "base_s": 13
+}

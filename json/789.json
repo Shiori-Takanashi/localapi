@@ -1,0 +1,14 @@
+{
+  "national_dex": 789,
+  "ja": "コスモッグ",
+  "en": "cosmog",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png",
+  "base_h": 43,
+  "base_a": 29,
+  "base_b": 31,
+  "base_c": 29,
+  "base_d": 31,
+  "base_s": 37
+}

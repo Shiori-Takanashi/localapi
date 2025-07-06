@@ -1,0 +1,14 @@
+{
+  "national_dex": 131,
+  "ja": "ラプラス",
+  "en": "lapras",
+  "type_first": "水",
+  "type_second": "氷",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+  "base_h": 130,
+  "base_a": 85,
+  "base_b": 80,
+  "base_c": 85,
+  "base_d": 95,
+  "base_s": 60
+}

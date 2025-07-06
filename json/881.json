@@ -1,0 +1,14 @@
+{
+  "national_dex": 881,
+  "ja": "パッチルドン",
+  "en": "arctozolt",
+  "type_first": "電",
+  "type_second": "氷",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/881.png",
+  "base_h": 90,
+  "base_a": 100,
+  "base_b": 90,
+  "base_c": 90,
+  "base_d": 80,
+  "base_s": 55
+}

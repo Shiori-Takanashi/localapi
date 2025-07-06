@@ -1,0 +1,14 @@
+{
+  "national_dex": 155,
+  "ja": "ヒノアラシ",
+  "en": "cyndaquil",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+  "base_h": 39,
+  "base_a": 52,
+  "base_b": 43,
+  "base_c": 60,
+  "base_d": 50,
+  "base_s": 65
+}

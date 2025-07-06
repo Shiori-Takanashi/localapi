@@ -1,0 +1,14 @@
+{
+  "national_dex": 105,
+  "ja": "ガラガラ",
+  "en": "marowak",
+  "type_first": "地",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+  "base_h": 60,
+  "base_a": 80,
+  "base_b": 110,
+  "base_c": 50,
+  "base_d": 80,
+  "base_s": 45
+}

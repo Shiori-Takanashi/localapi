@@ -1,0 +1,14 @@
+{
+  "national_dex": 149,
+  "ja": "カイリュー",
+  "en": "dragonite",
+  "type_first": "竜",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+  "base_h": 91,
+  "base_a": 134,
+  "base_b": 95,
+  "base_c": 100,
+  "base_d": 100,
+  "base_s": 80
+}

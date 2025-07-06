@@ -1,0 +1,14 @@
+{
+  "national_dex": 749,
+  "ja": "ドロバンコ",
+  "en": "mudbray",
+  "type_first": "地",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png",
+  "base_h": 70,
+  "base_a": 100,
+  "base_b": 70,
+  "base_c": 45,
+  "base_d": 55,
+  "base_s": 45
+}

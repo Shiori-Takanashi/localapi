@@ -1,0 +1,14 @@
+{
+  "national_dex": 233,
+  "ja": "ポリゴン２",
+  "en": "porygon2",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+  "base_h": 85,
+  "base_a": 80,
+  "base_b": 90,
+  "base_c": 105,
+  "base_d": 95,
+  "base_s": 60
+}

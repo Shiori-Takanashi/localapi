@@ -1,0 +1,14 @@
+{
+  "national_dex": 857,
+  "ja": "テブリム",
+  "en": "hattrem",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/857.png",
+  "base_h": 57,
+  "base_a": 40,
+  "base_b": 65,
+  "base_c": 86,
+  "base_d": 73,
+  "base_s": 49
+}

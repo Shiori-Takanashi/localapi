@@ -1,0 +1,14 @@
+{
+  "national_dex": 428,
+  "ja": "ミミロップ",
+  "en": "lopunny",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png",
+  "base_h": 65,
+  "base_a": 76,
+  "base_b": 84,
+  "base_c": 54,
+  "base_d": 96,
+  "base_s": 105
+}

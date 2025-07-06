@@ -1,0 +1,14 @@
+{
+  "national_dex": 411,
+  "ja": "トリデプス",
+  "en": "bastiodon",
+  "type_first": "岩",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png",
+  "base_h": 60,
+  "base_a": 52,
+  "base_b": 168,
+  "base_c": 47,
+  "base_d": 138,
+  "base_s": 30
+}

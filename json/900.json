@@ -1,0 +1,14 @@
+{
+  "national_dex": 900,
+  "ja": "バサギリ",
+  "en": "kleavor",
+  "type_first": "虫",
+  "type_second": "岩",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/900.png",
+  "base_h": 70,
+  "base_a": 135,
+  "base_b": 95,
+  "base_c": 45,
+  "base_d": 70,
+  "base_s": 85
+}

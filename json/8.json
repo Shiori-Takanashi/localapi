@@ -1,0 +1,14 @@
+{
+  "national_dex": 8,
+  "ja": "カメール",
+  "en": "wartortle",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+  "base_h": 59,
+  "base_a": 63,
+  "base_b": 80,
+  "base_c": 65,
+  "base_d": 80,
+  "base_s": 58
+}

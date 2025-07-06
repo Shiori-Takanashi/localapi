@@ -1,0 +1,14 @@
+{
+  "national_dex": 1021,
+  "ja": "タケルライコ",
+  "en": "raging-bolt",
+  "type_first": "電",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1021.png",
+  "base_h": 125,
+  "base_a": 73,
+  "base_b": 91,
+  "base_c": 137,
+  "base_d": 89,
+  "base_s": 75
+}

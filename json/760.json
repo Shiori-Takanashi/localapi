@@ -1,0 +1,14 @@
+{
+  "national_dex": 760,
+  "ja": "キテルグマ",
+  "en": "bewear",
+  "type_first": "普",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png",
+  "base_h": 120,
+  "base_a": 125,
+  "base_b": 80,
+  "base_c": 55,
+  "base_d": 60,
+  "base_s": 60
+}

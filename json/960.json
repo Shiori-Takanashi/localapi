@@ -1,0 +1,14 @@
+{
+  "national_dex": 960,
+  "ja": "ウミディグダ",
+  "en": "wiglett",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/960.png",
+  "base_h": 10,
+  "base_a": 55,
+  "base_b": 25,
+  "base_c": 35,
+  "base_d": 25,
+  "base_s": 95
+}

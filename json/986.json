@@ -1,0 +1,14 @@
+{
+  "national_dex": 986,
+  "ja": "アラブルタケ",
+  "en": "brute-bonnet",
+  "type_first": "草",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/986.png",
+  "base_h": 111,
+  "base_a": 127,
+  "base_b": 99,
+  "base_c": 79,
+  "base_d": 99,
+  "base_s": 55
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 238,
+  "ja": "ムチュール",
+  "en": "smoochum",
+  "type_first": "氷",
+  "type_second": "超",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+  "base_h": 45,
+  "base_a": 30,
+  "base_b": 15,
+  "base_c": 85,
+  "base_d": 65,
+  "base_s": 65
+}

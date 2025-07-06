@@ -1,0 +1,14 @@
+{
+  "national_dex": 399,
+  "ja": "ビッパ",
+  "en": "bidoof",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png",
+  "base_h": 59,
+  "base_a": 45,
+  "base_b": 40,
+  "base_c": 35,
+  "base_d": 40,
+  "base_s": 31
+}

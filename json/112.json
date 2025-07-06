@@ -1,0 +1,14 @@
+{
+  "national_dex": 112,
+  "ja": "サイドン",
+  "en": "rhydon",
+  "type_first": "地",
+  "type_second": "岩",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+  "base_h": 105,
+  "base_a": 130,
+  "base_b": 120,
+  "base_c": 45,
+  "base_d": 45,
+  "base_s": 40
+}

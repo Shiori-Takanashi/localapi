@@ -1,0 +1,14 @@
+{
+  "national_dex": 261,
+  "ja": "ポチエナ",
+  "en": "poochyena",
+  "type_first": "悪",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+  "base_h": 35,
+  "base_a": 55,
+  "base_b": 35,
+  "base_c": 30,
+  "base_d": 30,
+  "base_s": 35
+}

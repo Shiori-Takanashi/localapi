@@ -1,0 +1,14 @@
+{
+  "national_dex": 998,
+  "ja": "セグレイブ",
+  "en": "baxcalibur",
+  "type_first": "竜",
+  "type_second": "氷",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png",
+  "base_h": 115,
+  "base_a": 145,
+  "base_b": 92,
+  "base_c": 75,
+  "base_d": 86,
+  "base_s": 87
+}

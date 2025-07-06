@@ -1,0 +1,14 @@
+{
+  "national_dex": 439,
+  "ja": "マネネ",
+  "en": "mime-jr",
+  "type_first": "超",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
+  "base_h": 20,
+  "base_a": 25,
+  "base_b": 45,
+  "base_c": 70,
+  "base_d": 90,
+  "base_s": 60
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 483,
+  "ja": "ディアルガ",
+  "en": "dialga",
+  "type_first": "鋼",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png",
+  "base_h": 100,
+  "base_a": 120,
+  "base_b": 120,
+  "base_c": 150,
+  "base_d": 100,
+  "base_s": 90
+}

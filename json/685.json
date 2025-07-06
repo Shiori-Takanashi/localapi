@@ -1,0 +1,14 @@
+{
+  "national_dex": 685,
+  "ja": "ペロリーム",
+  "en": "slurpuff",
+  "type_first": "妖",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png",
+  "base_h": 82,
+  "base_a": 80,
+  "base_b": 86,
+  "base_c": 85,
+  "base_d": 75,
+  "base_s": 72
+}

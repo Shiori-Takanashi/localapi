@@ -1,0 +1,14 @@
+{
+  "national_dex": 569,
+  "ja": "ダストダス",
+  "en": "garbodor",
+  "type_first": "毒",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+  "base_h": 80,
+  "base_a": 95,
+  "base_b": 82,
+  "base_c": 60,
+  "base_d": 82,
+  "base_s": 75
+}

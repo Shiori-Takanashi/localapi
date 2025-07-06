@@ -1,0 +1,14 @@
+{
+  "national_dex": 394,
+  "ja": "ポッタイシ",
+  "en": "prinplup",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png",
+  "base_h": 64,
+  "base_a": 66,
+  "base_b": 68,
+  "base_c": 81,
+  "base_d": 76,
+  "base_s": 50
+}

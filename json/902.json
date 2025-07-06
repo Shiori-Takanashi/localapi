@@ -1,0 +1,14 @@
+{
+  "national_dex": 902,
+  "ja": "イダイトウ",
+  "en": "basculegion",
+  "type_first": "水",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png",
+  "base_h": 120,
+  "base_a": 112,
+  "base_b": 65,
+  "base_c": 80,
+  "base_d": 75,
+  "base_s": 78
+}

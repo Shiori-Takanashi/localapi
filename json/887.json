@@ -1,0 +1,14 @@
+{
+  "national_dex": 887,
+  "ja": "ドラパルト",
+  "en": "dragapult",
+  "type_first": "竜",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png",
+  "base_h": 88,
+  "base_a": 120,
+  "base_b": 75,
+  "base_c": 100,
+  "base_d": 75,
+  "base_s": 142
+}

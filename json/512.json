@@ -1,0 +1,14 @@
+{
+  "national_dex": 512,
+  "ja": "ヤナッキー",
+  "en": "simisage",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png",
+  "base_h": 75,
+  "base_a": 98,
+  "base_b": 63,
+  "base_c": 98,
+  "base_d": 63,
+  "base_s": 101
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 241,
+  "ja": "ミルタンク",
+  "en": "miltank",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+  "base_h": 95,
+  "base_a": 80,
+  "base_b": 105,
+  "base_c": 40,
+  "base_d": 70,
+  "base_s": 100
+}

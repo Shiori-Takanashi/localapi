@@ -1,0 +1,14 @@
+{
+  "national_dex": 1024,
+  "ja": "テラパゴス",
+  "en": "terapagos",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png",
+  "base_h": 90,
+  "base_a": 65,
+  "base_b": 85,
+  "base_c": 65,
+  "base_d": 85,
+  "base_s": 60
+}

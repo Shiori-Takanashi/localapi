@@ -1,0 +1,14 @@
+{
+  "national_dex": 474,
+  "ja": "ポリゴンＺ",
+  "en": "porygon-z",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png",
+  "base_h": 85,
+  "base_a": 80,
+  "base_b": 70,
+  "base_c": 135,
+  "base_d": 75,
+  "base_s": 90
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 758,
+  "ja": "エンニュート",
+  "en": "salazzle",
+  "type_first": "毒",
+  "type_second": "炎",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png",
+  "base_h": 68,
+  "base_a": 64,
+  "base_b": 60,
+  "base_c": 111,
+  "base_d": 60,
+  "base_s": 117
+}

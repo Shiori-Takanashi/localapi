@@ -1,0 +1,14 @@
+{
+  "national_dex": 754,
+  "ja": "ラランテス",
+  "en": "lurantis",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png",
+  "base_h": 70,
+  "base_a": 105,
+  "base_b": 90,
+  "base_c": 80,
+  "base_d": 90,
+  "base_s": 45
+}

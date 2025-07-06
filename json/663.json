@@ -1,0 +1,14 @@
+{
+  "national_dex": 663,
+  "ja": "ファイアロー",
+  "en": "talonflame",
+  "type_first": "炎",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png",
+  "base_h": 78,
+  "base_a": 81,
+  "base_b": 71,
+  "base_c": 74,
+  "base_d": 69,
+  "base_s": 126
+}

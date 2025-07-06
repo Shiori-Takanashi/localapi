@@ -1,0 +1,14 @@
+{
+  "national_dex": 505,
+  "ja": "ミルホッグ",
+  "en": "watchog",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png",
+  "base_h": 60,
+  "base_a": 85,
+  "base_b": 69,
+  "base_c": 60,
+  "base_d": 69,
+  "base_s": 77
+}

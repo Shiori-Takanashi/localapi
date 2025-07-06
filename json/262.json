@@ -1,0 +1,14 @@
+{
+  "national_dex": 262,
+  "ja": "グラエナ",
+  "en": "mightyena",
+  "type_first": "悪",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+  "base_h": 70,
+  "base_a": 90,
+  "base_b": 70,
+  "base_c": 60,
+  "base_d": 60,
+  "base_s": 70
+}

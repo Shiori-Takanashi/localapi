@@ -1,0 +1,14 @@
+{
+  "national_dex": 598,
+  "ja": "ナットレイ",
+  "en": "ferrothorn",
+  "type_first": "草",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+  "base_h": 74,
+  "base_a": 94,
+  "base_b": 131,
+  "base_c": 54,
+  "base_d": 116,
+  "base_s": 20
+}

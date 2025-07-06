@@ -1,0 +1,14 @@
+{
+  "national_dex": 61,
+  "ja": "ニョロゾ",
+  "en": "poliwhirl",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+  "base_h": 65,
+  "base_a": 65,
+  "base_b": 65,
+  "base_c": 50,
+  "base_d": 50,
+  "base_s": 90
+}

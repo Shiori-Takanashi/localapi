@@ -1,0 +1,14 @@
+{
+  "national_dex": 175,
+  "ja": "トゲピー",
+  "en": "togepi",
+  "type_first": "妖",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+  "base_h": 35,
+  "base_a": 20,
+  "base_b": 65,
+  "base_c": 40,
+  "base_d": 65,
+  "base_s": 20
+}

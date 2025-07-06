@@ -1,0 +1,14 @@
+{
+  "national_dex": 434,
+  "ja": "スカンプー",
+  "en": "stunky",
+  "type_first": "毒",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png",
+  "base_h": 63,
+  "base_a": 63,
+  "base_b": 47,
+  "base_c": 41,
+  "base_d": 41,
+  "base_s": 74
+}

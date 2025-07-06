@@ -1,0 +1,14 @@
+{
+  "national_dex": 247,
+  "ja": "サナギラス",
+  "en": "pupitar",
+  "type_first": "岩",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+  "base_h": 70,
+  "base_a": 84,
+  "base_b": 70,
+  "base_c": 65,
+  "base_d": 70,
+  "base_s": 51
+}

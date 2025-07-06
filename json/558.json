@@ -1,0 +1,14 @@
+{
+  "national_dex": 558,
+  "ja": "イワパレス",
+  "en": "crustle",
+  "type_first": "虫",
+  "type_second": "岩",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png",
+  "base_h": 70,
+  "base_a": 105,
+  "base_b": 125,
+  "base_c": 65,
+  "base_d": 75,
+  "base_s": 45
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 717,
+  "ja": "イベルタル",
+  "en": "yveltal",
+  "type_first": "悪",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png",
+  "base_h": 126,
+  "base_a": 131,
+  "base_b": 95,
+  "base_c": 131,
+  "base_d": 98,
+  "base_s": 99
+}

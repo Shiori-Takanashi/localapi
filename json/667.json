@@ -1,0 +1,14 @@
+{
+  "national_dex": 667,
+  "ja": "シシコ",
+  "en": "litleo",
+  "type_first": "炎",
+  "type_second": "普",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png",
+  "base_h": 62,
+  "base_a": 50,
+  "base_b": 58,
+  "base_c": 73,
+  "base_d": 54,
+  "base_s": 72
+}

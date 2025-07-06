@@ -1,0 +1,14 @@
+{
+  "national_dex": 764,
+  "ja": "キュワワー",
+  "en": "comfey",
+  "type_first": "妖",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png",
+  "base_h": 51,
+  "base_a": 52,
+  "base_b": 90,
+  "base_c": 82,
+  "base_d": 110,
+  "base_s": 100
+}

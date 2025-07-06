@@ -1,0 +1,14 @@
+{
+  "national_dex": 870,
+  "ja": "タイレーツ",
+  "en": "falinks",
+  "type_first": "格",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/870.png",
+  "base_h": 65,
+  "base_a": 100,
+  "base_b": 100,
+  "base_c": 70,
+  "base_d": 60,
+  "base_s": 75
+}

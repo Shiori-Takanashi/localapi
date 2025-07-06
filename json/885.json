@@ -1,0 +1,14 @@
+{
+  "national_dex": 885,
+  "ja": "ドラメシヤ",
+  "en": "dreepy",
+  "type_first": "竜",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/885.png",
+  "base_h": 28,
+  "base_a": 60,
+  "base_b": 30,
+  "base_c": 40,
+  "base_d": 30,
+  "base_s": 82
+}

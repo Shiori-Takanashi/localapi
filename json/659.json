@@ -1,0 +1,14 @@
+{
+  "national_dex": 659,
+  "ja": "ホルビー",
+  "en": "bunnelby",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png",
+  "base_h": 38,
+  "base_a": 36,
+  "base_b": 38,
+  "base_c": 32,
+  "base_d": 36,
+  "base_s": 57
+}

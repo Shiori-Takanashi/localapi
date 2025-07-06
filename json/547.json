@@ -1,0 +1,14 @@
+{
+  "national_dex": 547,
+  "ja": "エルフーン",
+  "en": "whimsicott",
+  "type_first": "草",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
+  "base_h": 60,
+  "base_a": 67,
+  "base_b": 85,
+  "base_c": 77,
+  "base_d": 75,
+  "base_s": 116
+}

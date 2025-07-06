@@ -1,0 +1,14 @@
+{
+  "national_dex": 585,
+  "ja": "シキジカ",
+  "en": "deerling",
+  "type_first": "普",
+  "type_second": "草",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png",
+  "base_h": 60,
+  "base_a": 60,
+  "base_b": 50,
+  "base_c": 40,
+  "base_d": 50,
+  "base_s": 75
+}

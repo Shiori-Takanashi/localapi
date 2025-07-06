@@ -1,0 +1,14 @@
+{
+  "national_dex": 978,
+  "ja": "シャリタツ",
+  "en": "tatsugiri",
+  "type_first": "竜",
+  "type_second": "水",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png",
+  "base_h": 68,
+  "base_a": 50,
+  "base_b": 60,
+  "base_c": 120,
+  "base_d": 95,
+  "base_s": 82
+}

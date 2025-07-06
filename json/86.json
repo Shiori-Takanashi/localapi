@@ -1,0 +1,14 @@
+{
+  "national_dex": 86,
+  "ja": "パウワウ",
+  "en": "seel",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+  "base_h": 65,
+  "base_a": 45,
+  "base_b": 55,
+  "base_c": 45,
+  "base_d": 70,
+  "base_s": 45
+}

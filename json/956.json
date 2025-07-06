@@ -1,0 +1,14 @@
+{
+  "national_dex": 956,
+  "ja": "クエスパトラ",
+  "en": "espathra",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png",
+  "base_h": 95,
+  "base_a": 60,
+  "base_b": 60,
+  "base_c": 101,
+  "base_d": 60,
+  "base_s": 105
+}

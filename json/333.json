@@ -1,0 +1,14 @@
+{
+  "national_dex": 333,
+  "ja": "チルット",
+  "en": "swablu",
+  "type_first": "普",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
+  "base_h": 45,
+  "base_a": 40,
+  "base_b": 60,
+  "base_c": 40,
+  "base_d": 75,
+  "base_s": 50
+}

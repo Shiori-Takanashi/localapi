@@ -1,0 +1,14 @@
+{
+  "national_dex": 823,
+  "ja": "アーマーガア",
+  "en": "corviknight",
+  "type_first": "飛",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
+  "base_h": 98,
+  "base_a": 87,
+  "base_b": 105,
+  "base_c": 53,
+  "base_d": 85,
+  "base_s": 67
+}

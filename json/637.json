@@ -1,0 +1,14 @@
+{
+  "national_dex": 637,
+  "ja": "ウルガモス",
+  "en": "volcarona",
+  "type_first": "虫",
+  "type_second": "炎",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
+  "base_h": 85,
+  "base_a": 60,
+  "base_b": 65,
+  "base_c": 135,
+  "base_d": 105,
+  "base_s": 100
+}

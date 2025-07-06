@@ -1,0 +1,14 @@
+{
+  "national_dex": 424,
+  "ja": "エテボース",
+  "en": "ambipom",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png",
+  "base_h": 75,
+  "base_a": 100,
+  "base_b": 66,
+  "base_c": 60,
+  "base_d": 66,
+  "base_s": 115
+}

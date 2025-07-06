@@ -1,0 +1,14 @@
+{
+  "national_dex": 522,
+  "ja": "シママ",
+  "en": "blitzle",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png",
+  "base_h": 45,
+  "base_a": 60,
+  "base_b": 32,
+  "base_c": 50,
+  "base_d": 32,
+  "base_s": 76
+}

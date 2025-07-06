@@ -1,0 +1,14 @@
+{
+  "national_dex": 182,
+  "ja": "キレイハナ",
+  "en": "bellossom",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+  "base_h": 75,
+  "base_a": 80,
+  "base_b": 95,
+  "base_c": 90,
+  "base_d": 100,
+  "base_s": 50
+}

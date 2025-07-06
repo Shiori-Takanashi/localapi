@@ -1,0 +1,14 @@
+{
+  "national_dex": 150,
+  "ja": "ミュウツー",
+  "en": "mewtwo",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+  "base_h": 106,
+  "base_a": 110,
+  "base_b": 90,
+  "base_c": 154,
+  "base_d": 90,
+  "base_s": 130
+}

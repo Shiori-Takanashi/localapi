@@ -1,0 +1,14 @@
+{
+  "national_dex": 576,
+  "ja": "ゴチルゼル",
+  "en": "gothitelle",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png",
+  "base_h": 70,
+  "base_a": 55,
+  "base_b": 95,
+  "base_c": 95,
+  "base_d": 110,
+  "base_s": 65
+}

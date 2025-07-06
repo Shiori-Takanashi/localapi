@@ -1,0 +1,14 @@
+{
+  "national_dex": 466,
+  "ja": "エレキブル",
+  "en": "electivire",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png",
+  "base_h": 75,
+  "base_a": 123,
+  "base_b": 67,
+  "base_c": 95,
+  "base_d": 85,
+  "base_s": 95
+}

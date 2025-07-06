@@ -1,0 +1,14 @@
+{
+  "national_dex": 845,
+  "ja": "ウッウ",
+  "en": "cramorant",
+  "type_first": "飛",
+  "type_second": "水",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png",
+  "base_h": 70,
+  "base_a": 85,
+  "base_b": 55,
+  "base_c": 85,
+  "base_d": 95,
+  "base_s": 85
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 738,
+  "ja": "クワガノン",
+  "en": "vikavolt",
+  "type_first": "虫",
+  "type_second": "電",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png",
+  "base_h": 77,
+  "base_a": 70,
+  "base_b": 90,
+  "base_c": 145,
+  "base_d": 75,
+  "base_s": 43
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 301,
+  "ja": "エネコロロ",
+  "en": "delcatty",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+  "base_h": 70,
+  "base_a": 65,
+  "base_b": 65,
+  "base_c": 55,
+  "base_d": 55,
+  "base_s": 90
+}

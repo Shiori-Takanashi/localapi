@@ -1,0 +1,14 @@
+{
+  "national_dex": 806,
+  "ja": "ズガドーン",
+  "en": "blacephalon",
+  "type_first": "炎",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png",
+  "base_h": 53,
+  "base_a": 127,
+  "base_b": 53,
+  "base_c": 151,
+  "base_d": 79,
+  "base_s": 107
+}

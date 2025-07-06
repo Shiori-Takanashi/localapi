@@ -1,0 +1,14 @@
+{
+  "national_dex": 171,
+  "ja": "ランターン",
+  "en": "lanturn",
+  "type_first": "水",
+  "type_second": "電",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+  "base_h": 125,
+  "base_a": 58,
+  "base_b": 58,
+  "base_c": 76,
+  "base_d": 76,
+  "base_s": 67
+}

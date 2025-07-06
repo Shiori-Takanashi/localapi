@@ -1,0 +1,14 @@
+{
+  "national_dex": 342,
+  "ja": "シザリガー",
+  "en": "crawdaunt",
+  "type_first": "水",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png",
+  "base_h": 63,
+  "base_a": 120,
+  "base_b": 85,
+  "base_c": 90,
+  "base_d": 55,
+  "base_s": 55
+}

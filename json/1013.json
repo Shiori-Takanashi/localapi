@@ -1,0 +1,14 @@
+{
+  "national_dex": 1013,
+  "ja": "ヤバソチャ",
+  "en": "sinistcha",
+  "type_first": "草",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013.png",
+  "base_h": 71,
+  "base_a": 60,
+  "base_b": 106,
+  "base_c": 121,
+  "base_d": 80,
+  "base_s": 70
+}

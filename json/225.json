@@ -1,0 +1,14 @@
+{
+  "national_dex": 225,
+  "ja": "デリバード",
+  "en": "delibird",
+  "type_first": "氷",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+  "base_h": 45,
+  "base_a": 55,
+  "base_b": 45,
+  "base_c": 65,
+  "base_d": 45,
+  "base_s": 75
+}

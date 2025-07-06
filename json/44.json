@@ -1,0 +1,14 @@
+{
+  "national_dex": 44,
+  "ja": "クサイハナ",
+  "en": "gloom",
+  "type_first": "草",
+  "type_second": "毒",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+  "base_h": 60,
+  "base_a": 65,
+  "base_b": 70,
+  "base_c": 85,
+  "base_d": 75,
+  "base_s": 40
+}

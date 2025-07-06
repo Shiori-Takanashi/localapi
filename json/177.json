@@ -1,0 +1,14 @@
+{
+  "national_dex": 177,
+  "ja": "ネイティ",
+  "en": "natu",
+  "type_first": "超",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+  "base_h": 40,
+  "base_a": 50,
+  "base_b": 45,
+  "base_c": 70,
+  "base_d": 45,
+  "base_s": 70
+}

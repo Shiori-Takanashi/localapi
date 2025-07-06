@@ -1,0 +1,14 @@
+{
+  "national_dex": 18,
+  "ja": "ピジョット",
+  "en": "pidgeot",
+  "type_first": "普",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+  "base_h": 83,
+  "base_a": 80,
+  "base_b": 75,
+  "base_c": 70,
+  "base_d": 70,
+  "base_s": 101
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 695,
+  "ja": "エレザード",
+  "en": "heliolisk",
+  "type_first": "電",
+  "type_second": "普",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png",
+  "base_h": 62,
+  "base_a": 55,
+  "base_b": 52,
+  "base_c": 109,
+  "base_d": 94,
+  "base_s": 109
+}

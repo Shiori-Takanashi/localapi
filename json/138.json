@@ -1,0 +1,14 @@
+{
+  "national_dex": 138,
+  "ja": "オムナイト",
+  "en": "omanyte",
+  "type_first": "岩",
+  "type_second": "水",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+  "base_h": 35,
+  "base_a": 40,
+  "base_b": 100,
+  "base_c": 90,
+  "base_d": 55,
+  "base_s": 35
+}

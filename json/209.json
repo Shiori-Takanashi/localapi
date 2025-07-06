@@ -1,0 +1,14 @@
+{
+  "national_dex": 209,
+  "ja": "ブルー",
+  "en": "snubbull",
+  "type_first": "妖",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+  "base_h": 60,
+  "base_a": 80,
+  "base_b": 50,
+  "base_c": 40,
+  "base_d": 40,
+  "base_s": 30
+}

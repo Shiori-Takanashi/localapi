@@ -1,0 +1,14 @@
+{
+  "national_dex": 401,
+  "ja": "コロボーシ",
+  "en": "kricketot",
+  "type_first": "虫",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png",
+  "base_h": 37,
+  "base_a": 25,
+  "base_b": 41,
+  "base_c": 25,
+  "base_d": 41,
+  "base_s": 25
+}

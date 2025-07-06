@@ -1,0 +1,14 @@
+{
+  "national_dex": 800,
+  "ja": "ネクロズマ",
+  "en": "necrozma",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png",
+  "base_h": 97,
+  "base_a": 107,
+  "base_b": 101,
+  "base_c": 127,
+  "base_d": 89,
+  "base_s": 79
+}

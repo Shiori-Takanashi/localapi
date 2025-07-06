@@ -1,0 +1,14 @@
+{
+  "national_dex": 317,
+  "ja": "マルノーム",
+  "en": "swalot",
+  "type_first": "毒",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+  "base_h": 100,
+  "base_a": 73,
+  "base_b": 83,
+  "base_c": 73,
+  "base_d": 83,
+  "base_s": 55
+}

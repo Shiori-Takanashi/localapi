@@ -1,0 +1,14 @@
+{
+  "national_dex": 382,
+  "ja": "カイオーガ",
+  "en": "kyogre",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+  "base_h": 100,
+  "base_a": 100,
+  "base_b": 90,
+  "base_c": 150,
+  "base_d": 140,
+  "base_s": 90
+}

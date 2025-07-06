@@ -1,0 +1,181 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
+<style>
+ body{background:#dbdbdb;font-family:monospace;font-size:16px}
+ pre{white-space:pre-wrap}
+ .thread-1{color:#e74c3c}.thread-2{color:#27ae60}.thread-3{color:#e69138}
+ .thread-4{color:#3498db}.thread-5{color:#9b59b6}.thread-6{color:#1abc9c}
+ .thread-error{color:#7f8c8d}.thread-none{color:#000}
+</style></head><body><pre>
+<span class="thread-none">0001|  0.001s|--|サーバー起動準備: /home/shiori/azure-projects/api-test-app/server/flask_gunicorn_server.py</span>
+<span class="thread-none">0002|  0.003s|--|サーバー起動コマンド送信</span>
+<span class="thread-none">0003|  1.004s|--|サーバー起動完了: port=6666</span>
+<span class="thread-none">0004|  1.004s|--|ワーカー起動準備: NUM_WORKERS=6</span>
+<span class="thread-none">0005|  1.005s|--|スレッド開始: Worker-1</span>
+<span class="thread-1">0006|  1.007s| 1|ワーカー起動: WID=1</span>
+<span class="thread-1">0007|  1.007s| 1|タスク取得待機</span>
+<span class="thread-none">0008|  1.008s|--|スレッド起動完了: Worker-1</span>
+<span class="thread-none">0009|  1.008s|--|スレッド開始: Worker-2</span>
+<span class="thread-2">0010|  1.009s| 2|ワーカー起動: WID=2</span>
+<span class="thread-2">0011|  1.009s| 2|タスク取得待機</span>
+<span class="thread-none">0012|  1.009s|--|スレッド起動完了: Worker-2</span>
+<span class="thread-none">0013|  1.010s|--|スレッド開始: Worker-3</span>
+<span class="thread-3">0014|  1.010s| 3|ワーカー起動: WID=3</span>
+<span class="thread-3">0015|  1.013s| 3|タスク取得待機</span>
+<span class="thread-none">0016|  1.013s|--|スレッド起動完了: Worker-3</span>
+<span class="thread-none">0017|  1.013s|--|スレッド開始: Worker-4</span>
+<span class="thread-4">0018|  1.014s| 4|ワーカー起動: WID=4</span>
+<span class="thread-4">0019|  1.014s| 4|タスク取得待機</span>
+<span class="thread-none">0020|  1.014s|--|スレッド起動完了: Worker-4</span>
+<span class="thread-none">0021|  1.014s|--|スレッド開始: Worker-5</span>
+<span class="thread-5">0022|  1.015s| 5|ワーカー起動: WID=5</span>
+<span class="thread-5">0023|  1.015s| 5|タスク取得待機</span>
+<span class="thread-none">0024|  1.015s|--|スレッド起動完了: Worker-5</span>
+<span class="thread-none">0025|  1.016s|--|スレッド開始: Worker-6</span>
+<span class="thread-6">0026|  1.016s| 6|ワーカー起動: WID=6</span>
+<span class="thread-6">0027|  1.016s| 6|タスク取得待機</span>
+<span class="thread-none">0028|  1.017s|--|スレッド起動完了: Worker-6</span>
+<span class="thread-none">0029|  1.017s|--|全ワーカー起動完了</span>
+<span class="thread-none">0030|  1.018s|--|タスク投入開始: 件数=6</span>
+<span class="thread-none">0031|  1.018s|--|タスク投入: task_id=1</span>
+<span class="thread-none">0032|  1.018s|--|タスク投入: task_id=2</span>
+<span class="thread-1">0033|  1.019s| 1|タスク取得: task_id=1</span>
+<span class="thread-1">0034|  1.019s| 1|実行開始: task_id=1</span>
+<span class="thread-1">0035|  1.019s| 1|準備: HTTP GET http://127.0.0.1:6666/db/delay/1</span>
+<span class="thread-1">0036|  1.019s| 1|HTTP送信開始</span>
+<span class="thread-2">0037|  1.020s| 2|タスク取得: task_id=2</span>
+<span class="thread-2">0038|  1.023s| 2|実行開始: task_id=2</span>
+<span class="thread-2">0039|  1.023s| 2|準備: HTTP GET http://127.0.0.1:6666/db/delay/2</span>
+<span class="thread-2">0040|  1.023s| 2|HTTP送信開始</span>
+<span class="thread-none">0041|  1.024s|--|タスク投入: task_id=3</span>
+<span class="thread-none">0042|  1.025s|--|タスク投入: task_id=4</span>
+<span class="thread-3">0043|  1.025s| 3|タスク取得: task_id=3</span>
+<span class="thread-3">0044|  1.026s| 3|実行開始: task_id=3</span>
+<span class="thread-3">0045|  1.026s| 3|準備: HTTP GET http://127.0.0.1:6666/db/delay/3</span>
+<span class="thread-3">0046|  1.027s| 3|HTTP送信開始</span>
+<span class="thread-4">0047|  1.027s| 4|タスク取得: task_id=4</span>
+<span class="thread-4">0048|  1.028s| 4|実行開始: task_id=4</span>
+<span class="thread-4">0049|  1.028s| 4|準備: HTTP GET http://127.0.0.1:6666/db/delay/4</span>
+<span class="thread-4">0050|  1.029s| 4|HTTP送信開始</span>
+<span class="thread-none">0051|  1.029s|--|タスク投入: task_id=5</span>
+<span class="thread-none">0052|  1.030s|--|タスク投入: task_id=6</span>
+<span class="thread-5">0053|  1.031s| 5|タスク取得: task_id=5</span>
+<span class="thread-5">0054|  1.031s| 5|実行開始: task_id=5</span>
+<span class="thread-5">0055|  1.031s| 5|準備: HTTP GET http://127.0.0.1:6666/db/delay/5</span>
+<span class="thread-5">0056|  1.032s| 5|HTTP送信開始</span>
+<span class="thread-6">0057|  1.032s| 6|タスク取得: task_id=6</span>
+<span class="thread-6">0058|  1.033s| 6|実行開始: task_id=6</span>
+<span class="thread-6">0059|  1.034s| 6|準備: HTTP GET http://127.0.0.1:6666/db/delay/6</span>
+<span class="thread-6">0060|  1.034s| 6|HTTP送信開始</span>
+<span class="thread-none">0061|  1.035s|--|タスク投入完了</span>
+<span class="thread-none">0062|  1.036s|--|全タスク完了待機開始</span>
+<span class="thread-3">0063|  5.035s| 3|受信完了: status=200, elapsed=4.008s</span>
+<span class="thread-3">0064|  5.035s| 3|ステータス検証開始</span>
+<span class="thread-3">0065|  5.036s| 3|ステータスOK</span>
+<span class="thread-3">0066|  5.037s| 3|JSON解析開始</span>
+<span class="thread-5">0067|  5.038s| 5|受信完了: status=200, elapsed=4.005s</span>
+<span class="thread-5">0068|  5.039s| 5|ステータス検証開始</span>
+<span class="thread-5">0069|  5.039s| 5|ステータスOK</span>
+<span class="thread-5">0070|  5.040s| 5|JSON解析開始</span>
+<span class="thread-3">0071|  5.040s| 3|JSON解析成功: keys=['national_dex', 'ja', 'en', 'type_first', 'type_second', 'front_default_url', 'base_h', 'base_a', 'base_b', 'base_c', 'base_d', 'base_s']</span>
+<span class="thread-3">0072|  5.040s| 3|ja取得: フシギバナ</span>
+<span class="thread-3">0073|  5.041s| 3|結果キュー登録開始</span>
+<span class="thread-5">0074|  5.041s| 5|JSON解析成功: keys=['national_dex', 'ja', 'en', 'type_first', 'type_second', 'front_default_url', 'base_h', 'base_a', 'base_b', 'base_c', 'base_d', 'base_s']</span>
+<span class="thread-5">0075|  5.042s| 5|ja取得: リザード</span>
+<span class="thread-5">0076|  5.042s| 5|結果キュー登録開始</span>
+<span class="thread-3">0077|  5.042s| 3|結果キュー登録完了</span>
+<span class="thread-3">0078|  5.043s| 3|タスク完了: name=フシギバナ</span>
+<span class="thread-5">0079|  5.043s| 5|結果キュー登録完了</span>
+<span class="thread-5">0080|  5.043s| 5|タスク完了: name=リザード</span>
+<span class="thread-3">0081|  5.044s| 3|実行完了: task_id=3</span>
+<span class="thread-3">0082|  5.045s| 3|タスク取得待機</span>
+<span class="thread-5">0083|  5.045s| 5|実行完了: task_id=5</span>
+<span class="thread-5">0084|  5.045s| 5|タスク取得待機</span>
+<span class="thread-2">0085|  6.027s| 2|受信完了: status=200, elapsed=5.004s</span>
+<span class="thread-2">0086|  6.027s| 2|ステータス検証開始</span>
+<span class="thread-2">0087|  6.028s| 2|ステータスOK</span>
+<span class="thread-2">0088|  6.028s| 2|JSON解析開始</span>
+<span class="thread-2">0089|  6.028s| 2|JSON解析成功: keys=['national_dex', 'ja', 'en', 'type_first', 'type_second', 'front_default_url', 'base_h', 'base_a', 'base_b', 'base_c', 'base_d', 'base_s']</span>
+<span class="thread-2">0090|  6.029s| 2|ja取得: フシギソウ</span>
+<span class="thread-2">0091|  6.029s| 2|結果キュー登録開始</span>
+<span class="thread-2">0092|  6.029s| 2|結果キュー登録完了</span>
+<span class="thread-2">0093|  6.030s| 2|タスク完了: name=フシギソウ</span>
+<span class="thread-2">0094|  6.030s| 2|実行完了: task_id=2</span>
+<span class="thread-2">0095|  6.031s| 2|タスク取得待機</span>
+<span class="thread-6">0096|  6.038s| 6|受信完了: status=200, elapsed=5.004s</span>
+<span class="thread-6">0097|  6.039s| 6|ステータス検証開始</span>
+<span class="thread-6">0098|  6.039s| 6|ステータスOK</span>
+<span class="thread-6">0099|  6.040s| 6|JSON解析開始</span>
+<span class="thread-6">0100|  6.040s| 6|JSON解析成功: keys=['national_dex', 'ja', 'en', 'type_first', 'type_second', 'front_default_url', 'base_h', 'base_a', 'base_b', 'base_c', 'base_d', 'base_s']</span>
+<span class="thread-6">0101|  6.040s| 6|ja取得: リザードン</span>
+<span class="thread-6">0102|  6.041s| 6|結果キュー登録開始</span>
+<span class="thread-6">0103|  6.041s| 6|結果キュー登録完了</span>
+<span class="thread-6">0104|  6.041s| 6|タスク完了: name=リザードン</span>
+<span class="thread-6">0105|  6.042s| 6|実行完了: task_id=6</span>
+<span class="thread-6">0106|  6.042s| 6|タスク取得待機</span>
+<span class="thread-1">0107|  7.025s| 1|受信完了: status=200, elapsed=6.006s</span>
+<span class="thread-1">0108|  7.026s| 1|ステータス検証開始</span>
+<span class="thread-1">0109|  7.027s| 1|ステータスOK</span>
+<span class="thread-1">0110|  7.027s| 1|JSON解析開始</span>
+<span class="thread-1">0111|  7.028s| 1|JSON解析成功: keys=['national_dex', 'ja', 'en', 'type_first', 'type_second', 'front_default_url', 'base_h', 'base_a', 'base_b', 'base_c', 'base_d', 'base_s']</span>
+<span class="thread-1">0112|  7.028s| 1|ja取得: フシギダネ</span>
+<span class="thread-1">0113|  7.028s| 1|結果キュー登録開始</span>
+<span class="thread-1">0114|  7.029s| 1|結果キュー登録完了</span>
+<span class="thread-1">0115|  7.029s| 1|タスク完了: name=フシギダネ</span>
+<span class="thread-1">0116|  7.030s| 1|実行完了: task_id=1</span>
+<span class="thread-1">0117|  7.030s| 1|タスク取得待機</span>
+<span class="thread-4">0118|  7.032s| 4|受信完了: status=200, elapsed=6.004s</span>
+<span class="thread-4">0119|  7.033s| 4|ステータス検証開始</span>
+<span class="thread-4">0120|  7.034s| 4|ステータスOK</span>
+<span class="thread-4">0121|  7.035s| 4|JSON解析開始</span>
+<span class="thread-4">0122|  7.036s| 4|JSON解析成功: keys=['national_dex', 'ja', 'en', 'type_first', 'type_second', 'front_default_url', 'base_h', 'base_a', 'base_b', 'base_c', 'base_d', 'base_s']</span>
+<span class="thread-4">0123|  7.036s| 4|ja取得: ヒトカゲ</span>
+<span class="thread-4">0124|  7.037s| 4|結果キュー登録開始</span>
+<span class="thread-4">0125|  7.037s| 4|結果キュー登録完了</span>
+<span class="thread-4">0126|  7.037s| 4|タスク完了: name=ヒトカゲ</span>
+<span class="thread-4">0127|  7.038s| 4|実行完了: task_id=4</span>
+<span class="thread-4">0128|  7.041s| 4|タスク取得待機</span>
+<span class="thread-none">0129|  7.043s|--|全タスク完了待機終了</span>
+<span class="thread-none">0130|  7.045s|--|ワーカー終了シグナル送信</span>
+<span class="thread-none">0131|  7.048s|--|スレッド結合待機: Worker-1</span>
+<span class="thread-4">0132|  7.049s| 4|タスク取得: task_id=None</span>
+<span class="thread-4">0133|  7.051s| 4|シャットダウンシグナル受信</span>
+<span class="thread-2">0134|  7.057s| 2|タスク取得: task_id=None</span>
+<span class="thread-2">0135|  7.057s| 2|シャットダウンシグナル受信</span>
+<span class="thread-2">0136|  7.058s| 2|ワーカー終了</span>
+<span class="thread-1">0137|  7.059s| 1|タスク取得: task_id=None</span>
+<span class="thread-1">0138|  7.059s| 1|シャットダウンシグナル受信</span>
+<span class="thread-4">0139|  7.060s| 4|ワーカー終了</span>
+<span class="thread-3">0140|  7.061s| 3|タスク取得: task_id=None</span>
+<span class="thread-3">0141|  7.062s| 3|シャットダウンシグナル受信</span>
+<span class="thread-3">0142|  7.062s| 3|ワーカー終了</span>
+<span class="thread-1">0143|  7.063s| 1|ワーカー終了</span>
+<span class="thread-6">0144|  7.064s| 6|タスク取得: task_id=None</span>
+<span class="thread-6">0145|  7.065s| 6|シャットダウンシグナル受信</span>
+<span class="thread-none">0146|  7.065s|--|スレッド終了完了: Worker-1</span>
+<span class="thread-none">0147|  7.065s|--|スレッド結合待機: Worker-2</span>
+<span class="thread-6">0148|  7.066s| 6|ワーカー終了</span>
+<span class="thread-5">0149|  7.067s| 5|タスク取得: task_id=None</span>
+<span class="thread-5">0150|  7.069s| 5|シャットダウンシグナル受信</span>
+<span class="thread-5">0151|  7.071s| 5|ワーカー終了</span>
+<span class="thread-none">0152|  7.072s|--|スレッド終了完了: Worker-2</span>
+<span class="thread-none">0153|  7.073s|--|スレッド結合待機: Worker-3</span>
+<span class="thread-none">0154|  7.074s|--|スレッド終了完了: Worker-3</span>
+<span class="thread-none">0155|  7.075s|--|スレッド結合待機: Worker-4</span>
+<span class="thread-none">0156|  7.076s|--|スレッド終了完了: Worker-4</span>
+<span class="thread-none">0157|  7.076s|--|スレッド結合待機: Worker-5</span>
+<span class="thread-none">0158|  7.077s|--|スレッド終了完了: Worker-5</span>
+<span class="thread-none">0159|  7.077s|--|スレッド結合待機: Worker-6</span>
+<span class="thread-none">0160|  7.078s|--|スレッド終了完了: Worker-6</span>
+<span class="thread-none">0161|  7.080s|--|全ワーカー終了完了</span>
+<span class="thread-none">0162|  7.080s|--|結果ログ出力開始</span>
+<span class="thread-3">0163|  7.080s| 3|結果出力: 3→フシギバナ</span>
+<span class="thread-5">0164|  7.082s| 5|結果出力: 5→リザード</span>
+<span class="thread-2">0165|  7.082s| 2|結果出力: 2→フシギソウ</span>
+<span class="thread-6">0166|  7.083s| 6|結果出力: 6→リザードン</span>
+<span class="thread-1">0167|  7.084s| 1|結果出力: 1→フシギダネ</span>
+<span class="thread-4">0168|  7.087s| 4|結果出力: 4→ヒトカゲ</span>
+<span class="thread-none">0169|  7.088s|--|結果ログ出力完了</span>
+<span class="thread-none">0170|  7.088s|--|処理全体完了</span>
+</pre></body></html><span class="thread-none">0171|  7.091s|--|サーバー停止処理開始</span>
+<span class="thread-none">0172|  7.091s|--|サーバー terminate コマンド送信</span>
+<span class="thread-none">0173|  7.121s|--|サーバー停止完了</span>

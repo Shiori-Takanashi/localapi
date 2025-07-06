@@ -1,0 +1,14 @@
+{
+  "national_dex": 655,
+  "ja": "マフォクシー",
+  "en": "delphox",
+  "type_first": "炎",
+  "type_second": "超",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png",
+  "base_h": 75,
+  "base_a": 69,
+  "base_b": 72,
+  "base_c": 114,
+  "base_d": 100,
+  "base_s": 104
+}

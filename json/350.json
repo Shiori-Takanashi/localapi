@@ -1,0 +1,14 @@
+{
+  "national_dex": 350,
+  "ja": "ミロカロス",
+  "en": "milotic",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
+  "base_h": 95,
+  "base_a": 60,
+  "base_b": 79,
+  "base_c": 100,
+  "base_d": 125,
+  "base_s": 81
+}

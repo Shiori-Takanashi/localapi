@@ -1,0 +1,14 @@
+{
+  "national_dex": 961,
+  "ja": "ウミトリオ",
+  "en": "wugtrio",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/961.png",
+  "base_h": 35,
+  "base_a": 100,
+  "base_b": 50,
+  "base_c": 50,
+  "base_d": 70,
+  "base_s": 120
+}

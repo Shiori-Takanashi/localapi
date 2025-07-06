@@ -1,0 +1,14 @@
+{
+  "national_dex": 455,
+  "ja": "マスキッパ",
+  "en": "carnivine",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png",
+  "base_h": 74,
+  "base_a": 100,
+  "base_b": 72,
+  "base_c": 90,
+  "base_d": 72,
+  "base_s": 46
+}

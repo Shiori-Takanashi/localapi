@@ -1,0 +1,14 @@
+{
+  "national_dex": 646,
+  "ja": "キュレム",
+  "en": "kyurem",
+  "type_first": "竜",
+  "type_second": "氷",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png",
+  "base_h": 125,
+  "base_a": 130,
+  "base_b": 90,
+  "base_c": 130,
+  "base_d": 90,
+  "base_s": 95
+}

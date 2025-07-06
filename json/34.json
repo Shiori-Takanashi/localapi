@@ -1,0 +1,14 @@
+{
+  "national_dex": 34,
+  "ja": "ニドキング",
+  "en": "nidoking",
+  "type_first": "毒",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+  "base_h": 81,
+  "base_a": 102,
+  "base_b": 77,
+  "base_c": 85,
+  "base_d": 75,
+  "base_s": 85
+}

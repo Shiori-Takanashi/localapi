@@ -1,0 +1,14 @@
+{
+  "national_dex": 613,
+  "ja": "クマシュン",
+  "en": "cubchoo",
+  "type_first": "氷",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png",
+  "base_h": 55,
+  "base_a": 70,
+  "base_b": 40,
+  "base_c": 60,
+  "base_d": 40,
+  "base_s": 40
+}

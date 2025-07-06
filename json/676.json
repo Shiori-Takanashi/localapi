@@ -1,0 +1,14 @@
+{
+  "national_dex": 676,
+  "ja": "トリミアン",
+  "en": "furfrou",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png",
+  "base_h": 75,
+  "base_a": 80,
+  "base_b": 60,
+  "base_c": 65,
+  "base_d": 90,
+  "base_s": 102
+}

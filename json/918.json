@@ -1,0 +1,14 @@
+{
+  "national_dex": 918,
+  "ja": "ワナイダー",
+  "en": "spidops",
+  "type_first": "虫",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png",
+  "base_h": 60,
+  "base_a": 79,
+  "base_b": 92,
+  "base_c": 52,
+  "base_d": 86,
+  "base_s": 35
+}

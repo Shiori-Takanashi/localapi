@@ -1,0 +1,14 @@
+{
+  "national_dex": 841,
+  "ja": "アップリュー",
+  "en": "flapple",
+  "type_first": "草",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/841.png",
+  "base_h": 70,
+  "base_a": 110,
+  "base_b": 80,
+  "base_c": 95,
+  "base_d": 60,
+  "base_s": 70
+}

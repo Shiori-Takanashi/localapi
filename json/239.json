@@ -1,0 +1,14 @@
+{
+  "national_dex": 239,
+  "ja": "エレキッド",
+  "en": "elekid",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+  "base_h": 45,
+  "base_a": 63,
+  "base_b": 37,
+  "base_c": 65,
+  "base_d": 55,
+  "base_s": 95
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 802,
+  "ja": "マーシャドー",
+  "en": "marshadow",
+  "type_first": "格",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png",
+  "base_h": 90,
+  "base_a": 125,
+  "base_b": 80,
+  "base_c": 90,
+  "base_d": 90,
+  "base_s": 125
+}

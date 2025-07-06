@@ -1,0 +1,14 @@
+{
+  "national_dex": 244,
+  "ja": "エンテイ",
+  "en": "entei",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+  "base_h": 115,
+  "base_a": 115,
+  "base_b": 85,
+  "base_c": 90,
+  "base_d": 75,
+  "base_s": 100
+}

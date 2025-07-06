@@ -1,0 +1,14 @@
+{
+  "national_dex": 989,
+  "ja": "スナノケガワ",
+  "en": "sandy-shocks",
+  "type_first": "電",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png",
+  "base_h": 85,
+  "base_a": 81,
+  "base_b": 97,
+  "base_c": 121,
+  "base_d": 85,
+  "base_s": 101
+}

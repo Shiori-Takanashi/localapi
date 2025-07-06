@@ -1,0 +1,14 @@
+{
+  "national_dex": 118,
+  "ja": "トサキント",
+  "en": "goldeen",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+  "base_h": 45,
+  "base_a": 67,
+  "base_b": 60,
+  "base_c": 35,
+  "base_d": 50,
+  "base_s": 63
+}

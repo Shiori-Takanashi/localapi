@@ -1,0 +1,14 @@
+{
+  "national_dex": 742,
+  "ja": "アブリー",
+  "en": "cutiefly",
+  "type_first": "虫",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png",
+  "base_h": 40,
+  "base_a": 45,
+  "base_b": 40,
+  "base_c": 55,
+  "base_d": 40,
+  "base_s": 84
+}

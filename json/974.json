@@ -1,0 +1,14 @@
+{
+  "national_dex": 974,
+  "ja": "アルクジラ",
+  "en": "cetoddle",
+  "type_first": "氷",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/974.png",
+  "base_h": 108,
+  "base_a": 68,
+  "base_b": 45,
+  "base_c": 30,
+  "base_d": 40,
+  "base_s": 43
+}

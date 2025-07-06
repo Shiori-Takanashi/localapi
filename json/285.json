@@ -1,0 +1,14 @@
+{
+  "national_dex": 285,
+  "ja": "キノココ",
+  "en": "shroomish",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+  "base_h": 60,
+  "base_a": 40,
+  "base_b": 60,
+  "base_c": 40,
+  "base_d": 60,
+  "base_s": 35
+}

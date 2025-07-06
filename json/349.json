@@ -1,0 +1,14 @@
+{
+  "national_dex": 349,
+  "ja": "ヒンバス",
+  "en": "feebas",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png",
+  "base_h": 20,
+  "base_a": 15,
+  "base_b": 20,
+  "base_c": 10,
+  "base_d": 55,
+  "base_s": 80
+}

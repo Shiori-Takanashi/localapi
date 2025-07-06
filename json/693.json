@@ -1,0 +1,14 @@
+{
+  "national_dex": 693,
+  "ja": "ブロスター",
+  "en": "clawitzer",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png",
+  "base_h": 71,
+  "base_a": 73,
+  "base_b": 88,
+  "base_c": 120,
+  "base_d": 89,
+  "base_s": 59
+}

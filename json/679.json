@@ -1,0 +1,14 @@
+{
+  "national_dex": 679,
+  "ja": "ヒトツキ",
+  "en": "honedge",
+  "type_first": "鋼",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png",
+  "base_h": 45,
+  "base_a": 80,
+  "base_b": 100,
+  "base_c": 35,
+  "base_d": 37,
+  "base_s": 28
+}

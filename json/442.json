@@ -1,0 +1,14 @@
+{
+  "national_dex": 442,
+  "ja": "ミカルゲ",
+  "en": "spiritomb",
+  "type_first": "幽",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png",
+  "base_h": 50,
+  "base_a": 92,
+  "base_b": 108,
+  "base_c": 92,
+  "base_d": 108,
+  "base_s": 35
+}

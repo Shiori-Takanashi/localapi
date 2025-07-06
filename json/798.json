@@ -1,0 +1,14 @@
+{
+  "national_dex": 798,
+  "ja": "カミツルギ",
+  "en": "kartana",
+  "type_first": "草",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png",
+  "base_h": 59,
+  "base_a": 181,
+  "base_b": 131,
+  "base_c": 59,
+  "base_d": 31,
+  "base_s": 109
+}

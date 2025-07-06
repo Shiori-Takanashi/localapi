@@ -1,0 +1,14 @@
+{
+  "national_dex": 120,
+  "ja": "ヒトデマン",
+  "en": "staryu",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+  "base_h": 30,
+  "base_a": 45,
+  "base_b": 55,
+  "base_c": 70,
+  "base_d": 55,
+  "base_s": 85
+}

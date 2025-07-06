@@ -1,0 +1,14 @@
+{
+  "national_dex": 389,
+  "ja": "ドダイトス",
+  "en": "torterra",
+  "type_first": "草",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
+  "base_h": 95,
+  "base_a": 109,
+  "base_b": 105,
+  "base_c": 75,
+  "base_d": 85,
+  "base_s": 56
+}

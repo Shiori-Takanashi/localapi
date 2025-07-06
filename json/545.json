@@ -1,0 +1,14 @@
+{
+  "national_dex": 545,
+  "ja": "ペンドラー",
+  "en": "scolipede",
+  "type_first": "虫",
+  "type_second": "毒",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
+  "base_h": 60,
+  "base_a": 100,
+  "base_b": 89,
+  "base_c": 55,
+  "base_d": 69,
+  "base_s": 112
+}

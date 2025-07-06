@@ -1,0 +1,14 @@
+{
+  "national_dex": 854,
+  "ja": "ヤバチャ",
+  "en": "sinistea",
+  "type_first": "幽",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/854.png",
+  "base_h": 40,
+  "base_a": 45,
+  "base_b": 45,
+  "base_c": 74,
+  "base_d": 54,
+  "base_s": 50
+}

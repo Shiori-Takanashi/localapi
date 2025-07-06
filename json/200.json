@@ -1,0 +1,14 @@
+{
+  "national_dex": 200,
+  "ja": "ムウマ",
+  "en": "misdreavus",
+  "type_first": "幽",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+  "base_h": 60,
+  "base_a": 60,
+  "base_b": 60,
+  "base_c": 85,
+  "base_d": 85,
+  "base_s": 85
+}

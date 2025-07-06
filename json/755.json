@@ -1,0 +1,14 @@
+{
+  "national_dex": 755,
+  "ja": "ネマシュ",
+  "en": "morelull",
+  "type_first": "草",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png",
+  "base_h": 40,
+  "base_a": 35,
+  "base_b": 55,
+  "base_c": 65,
+  "base_d": 75,
+  "base_s": 15
+}

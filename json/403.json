@@ -1,0 +1,14 @@
+{
+  "national_dex": 403,
+  "ja": "コリンク",
+  "en": "shinx",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png",
+  "base_h": 45,
+  "base_a": 65,
+  "base_b": 34,
+  "base_c": 40,
+  "base_d": 34,
+  "base_s": 45
+}

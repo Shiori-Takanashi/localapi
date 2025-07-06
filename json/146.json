@@ -1,0 +1,14 @@
+{
+  "national_dex": 146,
+  "ja": "ファイヤー",
+  "en": "moltres",
+  "type_first": "炎",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+  "base_h": 90,
+  "base_a": 100,
+  "base_b": 90,
+  "base_c": 125,
+  "base_d": 85,
+  "base_s": 90
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 417,
+  "ja": "パチリス",
+  "en": "pachirisu",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png",
+  "base_h": 60,
+  "base_a": 45,
+  "base_b": 70,
+  "base_c": 45,
+  "base_d": 90,
+  "base_s": 95
+}

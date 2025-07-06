@@ -1,0 +1,14 @@
+{
+  "national_dex": 620,
+  "ja": "コジョンド",
+  "en": "mienshao",
+  "type_first": "格",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png",
+  "base_h": 65,
+  "base_a": 125,
+  "base_b": 60,
+  "base_c": 95,
+  "base_d": 60,
+  "base_s": 105
+}

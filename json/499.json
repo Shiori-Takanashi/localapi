@@ -1,0 +1,14 @@
+{
+  "national_dex": 499,
+  "ja": "チャオブー",
+  "en": "pignite",
+  "type_first": "炎",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png",
+  "base_h": 90,
+  "base_a": 93,
+  "base_b": 55,
+  "base_c": 70,
+  "base_d": 55,
+  "base_s": 55
+}

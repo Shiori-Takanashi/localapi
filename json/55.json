@@ -1,0 +1,14 @@
+{
+  "national_dex": 55,
+  "ja": "ゴルダック",
+  "en": "golduck",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+  "base_h": 80,
+  "base_a": 82,
+  "base_b": 78,
+  "base_c": 95,
+  "base_d": 80,
+  "base_s": 85
+}

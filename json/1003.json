@@ -1,0 +1,14 @@
+{
+  "national_dex": 1003,
+  "ja": "ディンルー",
+  "en": "ting-lu",
+  "type_first": "悪",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1003.png",
+  "base_h": 155,
+  "base_a": 110,
+  "base_b": 125,
+  "base_c": 55,
+  "base_d": 80,
+  "base_s": 45
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 829,
+  "ja": "ヒメンカ",
+  "en": "gossifleur",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png",
+  "base_h": 40,
+  "base_a": 40,
+  "base_b": 60,
+  "base_c": 40,
+  "base_d": 60,
+  "base_s": 10
+}

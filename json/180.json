@@ -1,0 +1,14 @@
+{
+  "national_dex": 180,
+  "ja": "モココ",
+  "en": "flaaffy",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+  "base_h": 70,
+  "base_a": 55,
+  "base_b": 55,
+  "base_c": 80,
+  "base_d": 60,
+  "base_s": 45
+}

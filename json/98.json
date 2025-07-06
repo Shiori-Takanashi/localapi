@@ -1,0 +1,14 @@
+{
+  "national_dex": 98,
+  "ja": "クラブ",
+  "en": "krabby",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+  "base_h": 30,
+  "base_a": 105,
+  "base_b": 90,
+  "base_c": 25,
+  "base_d": 25,
+  "base_s": 50
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 906,
+  "ja": "ニャオハ",
+  "en": "sprigatito",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png",
+  "base_h": 40,
+  "base_a": 61,
+  "base_b": 54,
+  "base_c": 45,
+  "base_d": 45,
+  "base_s": 65
+}

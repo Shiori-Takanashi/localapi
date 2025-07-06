@@ -1,0 +1,14 @@
+{
+  "national_dex": 654,
+  "ja": "テールナー",
+  "en": "braixen",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png",
+  "base_h": 59,
+  "base_a": 59,
+  "base_b": 58,
+  "base_c": 90,
+  "base_d": 70,
+  "base_s": 73
+}

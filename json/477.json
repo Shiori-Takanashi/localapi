@@ -1,0 +1,14 @@
+{
+  "national_dex": 477,
+  "ja": "ヨノワール",
+  "en": "dusknoir",
+  "type_first": "幽",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png",
+  "base_h": 45,
+  "base_a": 100,
+  "base_b": 135,
+  "base_c": 65,
+  "base_d": 135,
+  "base_s": 45
+}

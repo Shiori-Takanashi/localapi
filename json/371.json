@@ -1,0 +1,14 @@
+{
+  "national_dex": 371,
+  "ja": "タツベイ",
+  "en": "bagon",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
+  "base_h": 45,
+  "base_a": 75,
+  "base_b": 60,
+  "base_c": 40,
+  "base_d": 30,
+  "base_s": 50
+}

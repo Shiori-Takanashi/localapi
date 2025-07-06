@@ -1,0 +1,14 @@
+{
+  "national_dex": 324,
+  "ja": "コータス",
+  "en": "torkoal",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+  "base_h": 70,
+  "base_a": 85,
+  "base_b": 140,
+  "base_c": 85,
+  "base_d": 70,
+  "base_s": 20
+}

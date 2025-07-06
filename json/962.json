@@ -1,0 +1,14 @@
+{
+  "national_dex": 962,
+  "ja": "オトシドリ",
+  "en": "bombirdier",
+  "type_first": "飛",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/962.png",
+  "base_h": 70,
+  "base_a": 103,
+  "base_b": 85,
+  "base_c": 60,
+  "base_d": 85,
+  "base_s": 82
+}

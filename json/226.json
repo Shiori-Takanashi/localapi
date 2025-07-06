@@ -1,0 +1,14 @@
+{
+  "national_dex": 226,
+  "ja": "マンタイン",
+  "en": "mantine",
+  "type_first": "水",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+  "base_h": 85,
+  "base_a": 40,
+  "base_b": 70,
+  "base_c": 80,
+  "base_d": 140,
+  "base_s": 70
+}

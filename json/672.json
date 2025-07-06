@@ -1,0 +1,14 @@
+{
+  "national_dex": 672,
+  "ja": "メェークル",
+  "en": "skiddo",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png",
+  "base_h": 66,
+  "base_a": 65,
+  "base_b": 48,
+  "base_c": 62,
+  "base_d": 57,
+  "base_s": 52
+}

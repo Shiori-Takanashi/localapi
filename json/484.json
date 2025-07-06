@@ -1,0 +1,14 @@
+{
+  "national_dex": 484,
+  "ja": "パルキア",
+  "en": "palkia",
+  "type_first": "水",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png",
+  "base_h": 90,
+  "base_a": 120,
+  "base_b": 100,
+  "base_c": 150,
+  "base_d": 120,
+  "base_s": 100
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 953,
+  "ja": "シガロコ",
+  "en": "rellor",
+  "type_first": "虫",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/953.png",
+  "base_h": 41,
+  "base_a": 50,
+  "base_b": 60,
+  "base_c": 31,
+  "base_d": 58,
+  "base_s": 30
+}

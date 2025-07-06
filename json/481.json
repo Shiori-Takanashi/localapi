@@ -1,0 +1,14 @@
+{
+  "national_dex": 481,
+  "ja": "エムリット",
+  "en": "mesprit",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png",
+  "base_h": 80,
+  "base_a": 105,
+  "base_b": 105,
+  "base_c": 105,
+  "base_d": 105,
+  "base_s": 80
+}

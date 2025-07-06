@@ -1,0 +1,14 @@
+{
+  "national_dex": 97,
+  "ja": "スリーパー",
+  "en": "hypno",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+  "base_h": 85,
+  "base_a": 73,
+  "base_b": 70,
+  "base_c": 73,
+  "base_d": 115,
+  "base_s": 67
+}

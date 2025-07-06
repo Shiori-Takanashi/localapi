@@ -1,0 +1,14 @@
+{
+  "national_dex": 20,
+  "ja": "ラッタ",
+  "en": "raticate",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+  "base_h": 55,
+  "base_a": 81,
+  "base_b": 60,
+  "base_c": 50,
+  "base_d": 70,
+  "base_s": 97
+}

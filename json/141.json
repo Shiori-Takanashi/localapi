@@ -1,0 +1,14 @@
+{
+  "national_dex": 141,
+  "ja": "カブトプス",
+  "en": "kabutops",
+  "type_first": "岩",
+  "type_second": "水",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+  "base_h": 60,
+  "base_a": 115,
+  "base_b": 105,
+  "base_c": 65,
+  "base_d": 70,
+  "base_s": 80
+}

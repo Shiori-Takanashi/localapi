@@ -1,0 +1,14 @@
+{
+  "national_dex": 185,
+  "ja": "ウソッキー",
+  "en": "sudowoodo",
+  "type_first": "岩",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+  "base_h": 70,
+  "base_a": 100,
+  "base_b": 115,
+  "base_c": 30,
+  "base_d": 65,
+  "base_s": 30
+}

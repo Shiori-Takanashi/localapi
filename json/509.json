@@ -1,0 +1,14 @@
+{
+  "national_dex": 509,
+  "ja": "チョロネコ",
+  "en": "purrloin",
+  "type_first": "悪",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png",
+  "base_h": 41,
+  "base_a": 50,
+  "base_b": 37,
+  "base_c": 50,
+  "base_d": 37,
+  "base_s": 66
+}

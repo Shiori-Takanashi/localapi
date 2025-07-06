@@ -1,0 +1,14 @@
+{
+  "national_dex": 641,
+  "ja": "トルネロス",
+  "en": "tornadus",
+  "type_first": "飛",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png",
+  "base_h": 79,
+  "base_a": 115,
+  "base_b": 70,
+  "base_c": 125,
+  "base_d": 80,
+  "base_s": 111
+}

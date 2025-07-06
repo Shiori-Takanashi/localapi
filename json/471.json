@@ -1,0 +1,14 @@
+{
+  "national_dex": 471,
+  "ja": "グレイシア",
+  "en": "glaceon",
+  "type_first": "氷",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png",
+  "base_h": 65,
+  "base_a": 60,
+  "base_b": 110,
+  "base_c": 130,
+  "base_d": 95,
+  "base_s": 65
+}

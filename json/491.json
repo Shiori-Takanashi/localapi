@@ -1,0 +1,14 @@
+{
+  "national_dex": 491,
+  "ja": "ダークライ",
+  "en": "darkrai",
+  "type_first": "悪",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png",
+  "base_h": 70,
+  "base_a": 90,
+  "base_b": 90,
+  "base_c": 135,
+  "base_d": 90,
+  "base_s": 125
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 202,
+  "ja": "ソーナンス",
+  "en": "wobbuffet",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+  "base_h": 190,
+  "base_a": 33,
+  "base_b": 58,
+  "base_c": 33,
+  "base_d": 58,
+  "base_s": 33
+}

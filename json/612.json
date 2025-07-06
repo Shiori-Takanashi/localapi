@@ -1,0 +1,14 @@
+{
+  "national_dex": 612,
+  "ja": "オノノクス",
+  "en": "haxorus",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
+  "base_h": 76,
+  "base_a": 147,
+  "base_b": 90,
+  "base_c": 60,
+  "base_d": 70,
+  "base_s": 97
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 88,
+  "ja": "ベトベター",
+  "en": "grimer",
+  "type_first": "毒",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+  "base_h": 80,
+  "base_a": 80,
+  "base_b": 50,
+  "base_c": 40,
+  "base_d": 50,
+  "base_s": 25
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 621,
+  "ja": "クリムガン",
+  "en": "druddigon",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png",
+  "base_h": 77,
+  "base_a": 120,
+  "base_b": 90,
+  "base_c": 60,
+  "base_d": 90,
+  "base_s": 48
+}

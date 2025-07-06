@@ -1,0 +1,14 @@
+{
+  "national_dex": 860,
+  "ja": "ギモー",
+  "en": "morgrem",
+  "type_first": "悪",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/860.png",
+  "base_h": 65,
+  "base_a": 60,
+  "base_b": 45,
+  "base_c": 75,
+  "base_d": 55,
+  "base_s": 70
+}

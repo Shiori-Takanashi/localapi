@@ -1,0 +1,14 @@
+{
+  "national_dex": 441,
+  "ja": "ペラップ",
+  "en": "chatot",
+  "type_first": "普",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png",
+  "base_h": 76,
+  "base_a": 65,
+  "base_b": 45,
+  "base_c": 92,
+  "base_d": 42,
+  "base_s": 91
+}

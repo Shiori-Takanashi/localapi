@@ -1,0 +1,14 @@
+{
+  "national_dex": 583,
+  "ja": "バニリッチ",
+  "en": "vanillish",
+  "type_first": "氷",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png",
+  "base_h": 51,
+  "base_a": 65,
+  "base_b": 65,
+  "base_c": 80,
+  "base_d": 75,
+  "base_s": 59
+}

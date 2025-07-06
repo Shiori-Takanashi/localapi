@@ -1,0 +1,14 @@
+{
+  "national_dex": 984,
+  "ja": "イダイナキバ",
+  "en": "great-tusk",
+  "type_first": "地",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png",
+  "base_h": 115,
+  "base_a": 131,
+  "base_b": 131,
+  "base_c": 53,
+  "base_d": 53,
+  "base_s": 87
+}

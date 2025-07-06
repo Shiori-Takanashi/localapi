@@ -1,0 +1,14 @@
+{
+  "national_dex": 305,
+  "ja": "コドラ",
+  "en": "lairon",
+  "type_first": "鋼",
+  "type_second": "岩",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
+  "base_h": 60,
+  "base_a": 90,
+  "base_b": 140,
+  "base_c": 50,
+  "base_d": 50,
+  "base_s": 40
+}

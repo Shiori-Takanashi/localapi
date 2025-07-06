@@ -1,0 +1,14 @@
+{
+  "national_dex": 702,
+  "ja": "デデンネ",
+  "en": "dedenne",
+  "type_first": "電",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png",
+  "base_h": 67,
+  "base_a": 58,
+  "base_b": 57,
+  "base_c": 81,
+  "base_d": 67,
+  "base_s": 101
+}

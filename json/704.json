@@ -1,0 +1,14 @@
+{
+  "national_dex": 704,
+  "ja": "ヌメラ",
+  "en": "goomy",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png",
+  "base_h": 45,
+  "base_a": 50,
+  "base_b": 35,
+  "base_c": 55,
+  "base_d": 75,
+  "base_s": 40
+}

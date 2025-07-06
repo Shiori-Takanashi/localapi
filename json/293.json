@@ -1,0 +1,14 @@
+{
+  "national_dex": 293,
+  "ja": "ゴニョニョ",
+  "en": "whismur",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+  "base_h": 64,
+  "base_a": 51,
+  "base_b": 23,
+  "base_c": 51,
+  "base_d": 23,
+  "base_s": 28
+}

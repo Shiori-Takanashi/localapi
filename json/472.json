@@ -1,0 +1,14 @@
+{
+  "national_dex": 472,
+  "ja": "グライオン",
+  "en": "gliscor",
+  "type_first": "地",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png",
+  "base_h": 75,
+  "base_a": 95,
+  "base_b": 125,
+  "base_c": 45,
+  "base_d": 75,
+  "base_s": 95
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 578,
+  "ja": "ダブラン",
+  "en": "duosion",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png",
+  "base_h": 65,
+  "base_a": 40,
+  "base_b": 50,
+  "base_c": 125,
+  "base_d": 60,
+  "base_s": 30
+}

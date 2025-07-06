@@ -1,0 +1,14 @@
+{
+  "national_dex": 671,
+  "ja": "フラージェス",
+  "en": "florges",
+  "type_first": "妖",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png",
+  "base_h": 78,
+  "base_a": 65,
+  "base_b": 68,
+  "base_c": 112,
+  "base_d": 154,
+  "base_s": 75
+}

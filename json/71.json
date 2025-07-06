@@ -1,0 +1,14 @@
+{
+  "national_dex": 71,
+  "ja": "ウツボット",
+  "en": "victreebel",
+  "type_first": "草",
+  "type_second": "毒",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+  "base_h": 80,
+  "base_a": 105,
+  "base_b": 65,
+  "base_c": 100,
+  "base_d": 70,
+  "base_s": 70
+}

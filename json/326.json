@@ -1,0 +1,14 @@
+{
+  "national_dex": 326,
+  "ja": "ブーピッグ",
+  "en": "grumpig",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png",
+  "base_h": 80,
+  "base_a": 45,
+  "base_b": 65,
+  "base_c": 90,
+  "base_d": 110,
+  "base_s": 80
+}

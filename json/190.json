@@ -1,0 +1,14 @@
+{
+  "national_dex": 190,
+  "ja": "エイパム",
+  "en": "aipom",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+  "base_h": 55,
+  "base_a": 70,
+  "base_b": 55,
+  "base_c": 40,
+  "base_d": 55,
+  "base_s": 85
+}

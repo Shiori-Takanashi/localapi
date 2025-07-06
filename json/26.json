@@ -1,0 +1,14 @@
+{
+  "national_dex": 26,
+  "ja": "ライチュウ",
+  "en": "raichu",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+  "base_h": 60,
+  "base_a": 90,
+  "base_b": 55,
+  "base_c": 90,
+  "base_d": 80,
+  "base_s": 110
+}

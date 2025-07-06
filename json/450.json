@@ -1,0 +1,14 @@
+{
+  "national_dex": 450,
+  "ja": "カバルドン",
+  "en": "hippowdon",
+  "type_first": "地",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png",
+  "base_h": 108,
+  "base_a": 112,
+  "base_b": 118,
+  "base_c": 68,
+  "base_d": 72,
+  "base_s": 47
+}

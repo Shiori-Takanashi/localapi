@@ -1,0 +1,14 @@
+{
+  "national_dex": 579,
+  "ja": "ランクルス",
+  "en": "reuniclus",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png",
+  "base_h": 110,
+  "base_a": 65,
+  "base_b": 75,
+  "base_c": 125,
+  "base_d": 85,
+  "base_s": 30
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 699,
+  "ja": "アマルルガ",
+  "en": "aurorus",
+  "type_first": "岩",
+  "type_second": "氷",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png",
+  "base_h": 123,
+  "base_a": 77,
+  "base_b": 72,
+  "base_c": 99,
+  "base_d": 92,
+  "base_s": 58
+}

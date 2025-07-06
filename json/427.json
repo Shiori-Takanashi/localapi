@@ -1,0 +1,14 @@
+{
+  "national_dex": 427,
+  "ja": "ミミロル",
+  "en": "buneary",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png",
+  "base_h": 55,
+  "base_a": 66,
+  "base_b": 44,
+  "base_c": 44,
+  "base_d": 56,
+  "base_s": 85
+}

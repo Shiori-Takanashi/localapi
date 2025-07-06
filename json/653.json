@@ -1,0 +1,14 @@
+{
+  "national_dex": 653,
+  "ja": "フォッコ",
+  "en": "fennekin",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png",
+  "base_h": 40,
+  "base_a": 45,
+  "base_b": 40,
+  "base_c": 62,
+  "base_d": 60,
+  "base_s": 60
+}

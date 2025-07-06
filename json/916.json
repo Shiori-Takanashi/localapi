@@ -1,0 +1,14 @@
+{
+  "national_dex": 916,
+  "ja": "パフュートン",
+  "en": "oinkologne",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png",
+  "base_h": 110,
+  "base_a": 100,
+  "base_b": 75,
+  "base_c": 59,
+  "base_d": 80,
+  "base_s": 65
+}

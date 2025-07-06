@@ -1,0 +1,14 @@
+{
+  "national_dex": 363,
+  "ja": "タマザラシ",
+  "en": "spheal",
+  "type_first": "氷",
+  "type_second": "水",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
+  "base_h": 70,
+  "base_a": 40,
+  "base_b": 50,
+  "base_c": 55,
+  "base_d": 50,
+  "base_s": 25
+}

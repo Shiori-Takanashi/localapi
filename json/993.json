@@ -1,0 +1,14 @@
+{
+  "national_dex": 993,
+  "ja": "テツノコウベ",
+  "en": "iron-jugulis",
+  "type_first": "悪",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png",
+  "base_h": 94,
+  "base_a": 80,
+  "base_b": 86,
+  "base_c": 122,
+  "base_d": 80,
+  "base_s": 108
+}

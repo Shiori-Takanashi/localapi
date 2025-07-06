@@ -1,0 +1,14 @@
+{
+  "national_dex": 119,
+  "ja": "アズマオウ",
+  "en": "seaking",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+  "base_h": 80,
+  "base_a": 92,
+  "base_b": 65,
+  "base_c": 65,
+  "base_d": 80,
+  "base_s": 68
+}

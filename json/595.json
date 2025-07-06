@@ -1,0 +1,14 @@
+{
+  "national_dex": 595,
+  "ja": "バチュル",
+  "en": "joltik",
+  "type_first": "虫",
+  "type_second": "電",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png",
+  "base_h": 50,
+  "base_a": 47,
+  "base_b": 50,
+  "base_c": 57,
+  "base_d": 50,
+  "base_s": 65
+}

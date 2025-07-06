@@ -1,0 +1,14 @@
+{
+  "national_dex": 294,
+  "ja": "ドゴーム",
+  "en": "loudred",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+  "base_h": 84,
+  "base_a": 71,
+  "base_b": 43,
+  "base_c": 71,
+  "base_d": 43,
+  "base_s": 48
+}

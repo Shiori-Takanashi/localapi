@@ -1,0 +1,14 @@
+{
+  "national_dex": 543,
+  "ja": "フシデ",
+  "en": "venipede",
+  "type_first": "虫",
+  "type_second": "毒",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png",
+  "base_h": 30,
+  "base_a": 45,
+  "base_b": 59,
+  "base_c": 30,
+  "base_d": 39,
+  "base_s": 57
+}

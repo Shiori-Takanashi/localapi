@@ -1,0 +1,14 @@
+{
+  "national_dex": 556,
+  "ja": "マラカッチ",
+  "en": "maractus",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+  "base_h": 75,
+  "base_a": 86,
+  "base_b": 67,
+  "base_c": 106,
+  "base_d": 67,
+  "base_s": 60
+}

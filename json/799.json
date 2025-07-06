@@ -1,0 +1,14 @@
+{
+  "national_dex": 799,
+  "ja": "アクジキング",
+  "en": "guzzlord",
+  "type_first": "悪",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png",
+  "base_h": 223,
+  "base_a": 101,
+  "base_b": 53,
+  "base_c": 97,
+  "base_d": 53,
+  "base_s": 43
+}

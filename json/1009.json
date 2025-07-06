@@ -1,0 +1,14 @@
+{
+  "national_dex": 1009,
+  "ja": "ウネルミナモ",
+  "en": "walking-wake",
+  "type_first": "水",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1009.png",
+  "base_h": 99,
+  "base_a": 83,
+  "base_b": 91,
+  "base_c": 125,
+  "base_d": 83,
+  "base_s": 109
+}

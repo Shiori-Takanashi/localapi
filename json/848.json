@@ -1,0 +1,14 @@
+{
+  "national_dex": 848,
+  "ja": "エレズン",
+  "en": "toxel",
+  "type_first": "電",
+  "type_second": "毒",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+  "base_h": 40,
+  "base_a": 38,
+  "base_b": 35,
+  "base_c": 54,
+  "base_d": 35,
+  "base_s": 40
+}

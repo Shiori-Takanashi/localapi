@@ -1,0 +1,14 @@
+{
+  "national_dex": 495,
+  "ja": "ツタージャ",
+  "en": "snivy",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+  "base_h": 45,
+  "base_a": 45,
+  "base_b": 55,
+  "base_c": 45,
+  "base_d": 55,
+  "base_s": 63
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 920,
+  "ja": "エクスレッグ",
+  "en": "lokix",
+  "type_first": "虫",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png",
+  "base_h": 71,
+  "base_a": 102,
+  "base_b": 78,
+  "base_c": 52,
+  "base_d": 55,
+  "base_s": 92
+}

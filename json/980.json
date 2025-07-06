@@ -1,0 +1,14 @@
+{
+  "national_dex": 980,
+  "ja": "ドオー",
+  "en": "clodsire",
+  "type_first": "毒",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png",
+  "base_h": 130,
+  "base_a": 75,
+  "base_b": 60,
+  "base_c": 45,
+  "base_d": 100,
+  "base_s": 20
+}

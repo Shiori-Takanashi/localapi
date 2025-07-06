@@ -1,0 +1,14 @@
+{
+  "national_dex": 694,
+  "ja": "エリキテル",
+  "en": "helioptile",
+  "type_first": "電",
+  "type_second": "普",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png",
+  "base_h": 44,
+  "base_a": 38,
+  "base_b": 33,
+  "base_c": 61,
+  "base_d": 43,
+  "base_s": 70
+}

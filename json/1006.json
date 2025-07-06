@@ -1,0 +1,14 @@
+{
+  "national_dex": 1006,
+  "ja": "テツノブジン",
+  "en": "iron-valiant",
+  "type_first": "妖",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1006.png",
+  "base_h": 74,
+  "base_a": 130,
+  "base_b": 90,
+  "base_c": 120,
+  "base_d": 60,
+  "base_s": 116
+}

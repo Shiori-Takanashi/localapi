@@ -1,0 +1,14 @@
+{
+  "national_dex": 643,
+  "ja": "レシラム",
+  "en": "reshiram",
+  "type_first": "竜",
+  "type_second": "炎",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+  "base_h": 100,
+  "base_a": 120,
+  "base_b": 100,
+  "base_c": 150,
+  "base_d": 120,
+  "base_s": 90
+}

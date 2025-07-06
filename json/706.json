@@ -1,0 +1,14 @@
+{
+  "national_dex": 706,
+  "ja": "ヌメルゴン",
+  "en": "goodra",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png",
+  "base_h": 90,
+  "base_a": 100,
+  "base_b": 70,
+  "base_c": 110,
+  "base_d": 150,
+  "base_s": 80
+}

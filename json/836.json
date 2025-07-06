@@ -1,0 +1,14 @@
+{
+  "national_dex": 836,
+  "ja": "パルスワン",
+  "en": "boltund",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/836.png",
+  "base_h": 69,
+  "base_a": 90,
+  "base_b": 60,
+  "base_c": 90,
+  "base_d": 60,
+  "base_s": 121
+}

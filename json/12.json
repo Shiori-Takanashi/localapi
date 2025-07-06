@@ -1,0 +1,14 @@
+{
+  "national_dex": 12,
+  "ja": "バタフリー",
+  "en": "butterfree",
+  "type_first": "虫",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+  "base_h": 60,
+  "base_a": 45,
+  "base_b": 50,
+  "base_c": 90,
+  "base_d": 80,
+  "base_s": 70
+}

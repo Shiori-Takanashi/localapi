@@ -1,0 +1,14 @@
+{
+  "national_dex": 719,
+  "ja": "ディアンシー",
+  "en": "diancie",
+  "type_first": "岩",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png",
+  "base_h": 50,
+  "base_a": 100,
+  "base_b": 150,
+  "base_c": 100,
+  "base_d": 150,
+  "base_s": 50
+}

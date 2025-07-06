@@ -1,0 +1,14 @@
+{
+  "national_dex": 315,
+  "ja": "ロゼリア",
+  "en": "roselia",
+  "type_first": "草",
+  "type_second": "毒",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+  "base_h": 50,
+  "base_a": 60,
+  "base_b": 45,
+  "base_c": 100,
+  "base_d": 80,
+  "base_s": 65
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 713,
+  "ja": "クレベース",
+  "en": "avalugg",
+  "type_first": "氷",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png",
+  "base_h": 95,
+  "base_a": 117,
+  "base_b": 184,
+  "base_c": 44,
+  "base_d": 46,
+  "base_s": 28
+}

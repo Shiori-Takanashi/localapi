@@ -1,0 +1,14 @@
+{
+  "national_dex": 726,
+  "ja": "ニャヒート",
+  "en": "torracat",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png",
+  "base_h": 65,
+  "base_a": 85,
+  "base_b": 50,
+  "base_c": 80,
+  "base_d": 50,
+  "base_s": 90
+}

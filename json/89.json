@@ -1,0 +1,14 @@
+{
+  "national_dex": 89,
+  "ja": "ベトベトン",
+  "en": "muk",
+  "type_first": "毒",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+  "base_h": 105,
+  "base_a": 105,
+  "base_b": 75,
+  "base_c": 65,
+  "base_d": 100,
+  "base_s": 50
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 788,
+  "ja": "カプ・レヒレ",
+  "en": "tapu-fini",
+  "type_first": "水",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png",
+  "base_h": 70,
+  "base_a": 75,
+  "base_b": 115,
+  "base_c": 95,
+  "base_d": 130,
+  "base_s": 85
+}

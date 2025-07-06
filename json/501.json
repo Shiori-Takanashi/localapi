@@ -1,0 +1,14 @@
+{
+  "national_dex": 501,
+  "ja": "ミジュマル",
+  "en": "oshawott",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+  "base_h": 55,
+  "base_a": 55,
+  "base_b": 45,
+  "base_c": 63,
+  "base_d": 45,
+  "base_s": 45
+}

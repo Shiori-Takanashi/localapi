@@ -1,0 +1,14 @@
+{
+  "national_dex": 774,
+  "ja": "メテノ",
+  "en": "minior",
+  "type_first": "岩",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png",
+  "base_h": 60,
+  "base_a": 60,
+  "base_b": 100,
+  "base_c": 60,
+  "base_d": 100,
+  "base_s": 60
+}

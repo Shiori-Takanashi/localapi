@@ -1,0 +1,14 @@
+{
+  "national_dex": 402,
+  "ja": "コロトック",
+  "en": "kricketune",
+  "type_first": "虫",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png",
+  "base_h": 77,
+  "base_a": 85,
+  "base_b": 51,
+  "base_c": 55,
+  "base_d": 51,
+  "base_s": 65
+}

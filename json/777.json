@@ -1,0 +1,14 @@
+{
+  "national_dex": 777,
+  "ja": "トゲデマル",
+  "en": "togedemaru",
+  "type_first": "電",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png",
+  "base_h": 65,
+  "base_a": 98,
+  "base_b": 63,
+  "base_c": 40,
+  "base_d": 73,
+  "base_s": 96
+}

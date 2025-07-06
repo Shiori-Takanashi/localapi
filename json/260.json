@@ -1,0 +1,14 @@
+{
+  "national_dex": 260,
+  "ja": "ラグラージ",
+  "en": "swampert",
+  "type_first": "水",
+  "type_second": "地",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+  "base_h": 100,
+  "base_a": 110,
+  "base_b": 90,
+  "base_c": 85,
+  "base_d": 90,
+  "base_s": 60
+}

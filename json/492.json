@@ -1,0 +1,14 @@
+{
+  "national_dex": 492,
+  "ja": "シェイミ",
+  "en": "shaymin",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png",
+  "base_h": 100,
+  "base_a": 100,
+  "base_b": 100,
+  "base_c": 100,
+  "base_d": 100,
+  "base_s": 100
+}

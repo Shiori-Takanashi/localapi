@@ -1,0 +1,14 @@
+{
+  "national_dex": 990,
+  "ja": "テツノワダチ",
+  "en": "iron-treads",
+  "type_first": "地",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/990.png",
+  "base_h": 90,
+  "base_a": 112,
+  "base_b": 120,
+  "base_c": 72,
+  "base_d": 70,
+  "base_s": 106
+}

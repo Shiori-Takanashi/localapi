@@ -1,0 +1,14 @@
+{
+  "national_dex": 42,
+  "ja": "ゴルバット",
+  "en": "golbat",
+  "type_first": "毒",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+  "base_h": 75,
+  "base_a": 80,
+  "base_b": 70,
+  "base_c": 65,
+  "base_d": 75,
+  "base_s": 90
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 1016,
+  "ja": "キチキギス",
+  "en": "fezandipiti",
+  "type_first": "毒",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1016.png",
+  "base_h": 88,
+  "base_a": 91,
+  "base_b": 82,
+  "base_c": 70,
+  "base_d": 125,
+  "base_s": 99
+}

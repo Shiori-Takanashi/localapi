@@ -1,0 +1,14 @@
+{
+  "national_dex": 353,
+  "ja": "カゲボウズ",
+  "en": "shuppet",
+  "type_first": "幽",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png",
+  "base_h": 44,
+  "base_a": 75,
+  "base_b": 35,
+  "base_c": 63,
+  "base_d": 33,
+  "base_s": 45
+}

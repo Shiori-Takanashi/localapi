@@ -1,0 +1,14 @@
+{
+  "national_dex": 425,
+  "ja": "フワンテ",
+  "en": "drifloon",
+  "type_first": "幽",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png",
+  "base_h": 90,
+  "base_a": 50,
+  "base_b": 34,
+  "base_c": 60,
+  "base_d": 44,
+  "base_s": 70
+}

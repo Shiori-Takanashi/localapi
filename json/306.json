@@ -1,0 +1,14 @@
+{
+  "national_dex": 306,
+  "ja": "ボスゴドラ",
+  "en": "aggron",
+  "type_first": "鋼",
+  "type_second": "岩",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
+  "base_h": 70,
+  "base_a": 110,
+  "base_b": 180,
+  "base_c": 60,
+  "base_d": 60,
+  "base_s": 50
+}

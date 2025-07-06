@@ -1,0 +1,14 @@
+{
+  "national_dex": 886,
+  "ja": "ドロンチ",
+  "en": "drakloak",
+  "type_first": "竜",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/886.png",
+  "base_h": 68,
+  "base_a": 80,
+  "base_b": 50,
+  "base_c": 60,
+  "base_d": 50,
+  "base_s": 102
+}

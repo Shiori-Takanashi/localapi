@@ -1,0 +1,14 @@
+{
+  "national_dex": 373,
+  "ja": "ボーマンダ",
+  "en": "salamence",
+  "type_first": "竜",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
+  "base_h": 95,
+  "base_a": 135,
+  "base_b": 80,
+  "base_c": 110,
+  "base_d": 80,
+  "base_s": 100
+}

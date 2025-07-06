@@ -1,0 +1,14 @@
+{
+  "national_dex": 161,
+  "ja": "オタチ",
+  "en": "sentret",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+  "base_h": 35,
+  "base_a": 46,
+  "base_b": 34,
+  "base_c": 35,
+  "base_d": 45,
+  "base_s": 20
+}

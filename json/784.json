@@ -1,0 +1,14 @@
+{
+  "national_dex": 784,
+  "ja": "ジャラランガ",
+  "en": "kommo-o",
+  "type_first": "竜",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png",
+  "base_h": 75,
+  "base_a": 110,
+  "base_b": 125,
+  "base_c": 100,
+  "base_d": 105,
+  "base_s": 85
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 553,
+  "ja": "ワルビアル",
+  "en": "krookodile",
+  "type_first": "地",
+  "type_second": "悪",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+  "base_h": 95,
+  "base_a": 117,
+  "base_b": 80,
+  "base_c": 65,
+  "base_d": 70,
+  "base_s": 92
+}

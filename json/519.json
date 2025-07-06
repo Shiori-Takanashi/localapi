@@ -1,0 +1,14 @@
+{
+  "national_dex": 519,
+  "ja": "マメパト",
+  "en": "pidove",
+  "type_first": "普",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png",
+  "base_h": 50,
+  "base_a": 55,
+  "base_b": 50,
+  "base_c": 36,
+  "base_d": 30,
+  "base_s": 43
+}

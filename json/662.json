@@ -1,0 +1,14 @@
+{
+  "national_dex": 662,
+  "ja": "ヒノヤコマ",
+  "en": "fletchinder",
+  "type_first": "炎",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/662.png",
+  "base_h": 62,
+  "base_a": 73,
+  "base_b": 55,
+  "base_c": 56,
+  "base_d": 52,
+  "base_s": 84
+}

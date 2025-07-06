@@ -1,0 +1,14 @@
+{
+  "national_dex": 1004,
+  "ja": "イーユイ",
+  "en": "chi-yu",
+  "type_first": "悪",
+  "type_second": "炎",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1004.png",
+  "base_h": 55,
+  "base_a": 80,
+  "base_b": 80,
+  "base_c": 135,
+  "base_d": 120,
+  "base_s": 100
+}

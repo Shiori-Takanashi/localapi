@@ -1,0 +1,14 @@
+{
+  "national_dex": 557,
+  "ja": "イシズマイ",
+  "en": "dwebble",
+  "type_first": "虫",
+  "type_second": "岩",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
+  "base_h": 50,
+  "base_a": 65,
+  "base_b": 85,
+  "base_c": 35,
+  "base_d": 35,
+  "base_s": 55
+}

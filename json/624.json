@@ -1,0 +1,14 @@
+{
+  "national_dex": 624,
+  "ja": "コマタナ",
+  "en": "pawniard",
+  "type_first": "悪",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png",
+  "base_h": 45,
+  "base_a": 85,
+  "base_b": 70,
+  "base_c": 40,
+  "base_d": 40,
+  "base_s": 60
+}

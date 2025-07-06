@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8">
+<style>
+ body{background:#dbdbdb;font-family:monospace;font-size:20px}
+ pre{white-space:pre}
+ .thread-1{color:#e74c3c}.thread-2{color:#27ae60}.thread-3{color:#e69138}
+ .thread-4{color:#3498db}.thread-5{color:#9b59b6}.thread-6{color:#1abc9c}
+ .thread-error{color:#7f8c8d}.thread-none{color:#000}
+</style></head><body><pre>
+<span class="thread-none">0001|  0.001s|--|開始: server=fast_server, port=7777, path=db, delay=delay</span>
+<span class="thread-1">0002|  0.001s| 1|ワーカー起動: 1</span>
+<span class="thread-2">0003|  0.002s| 2|ワーカー起動: 2</span>
+<span class="thread-3">0004|  0.003s| 3|ワーカー起動: 3</span>
+<span class="thread-3">0005|  0.004s| 3|タスク受付: task_id=3</span>
+<span class="thread-3">0006|  0.004s| 3|HTTP 送信開始: GET http://127.0.0.1:7777/db/delay/3</span>
+<span class="thread-6">0007|  0.006s| 6|ワーカー起動: 6</span>
+<span class="thread-4">0008|  0.007s| 4|タスク受付: task_id=4</span>
+<span class="thread-4">0009|  0.007s| 4|HTTP 送信開始: GET http://127.0.0.1:7777/db/delay/4</span>
+<span class="thread-4">0010|  0.007s| 4|ワーカー起動: 4</span>
+<span class="thread-5">0011|  0.008s| 5|ワーカー起動: 5</span>
+<span class="thread-1">0012|  0.008s| 1|タスク受付: task_id=1</span>
+<span class="thread-1">0013|  0.009s| 1|HTTP 送信開始: GET http://127.0.0.1:7777/db/delay/1</span>
+<span class="thread-5">0014|  0.009s| 5|タスク受付: task_id=5</span>
+<span class="thread-none">0015|  0.010s|--|全タスク投入完了: 登録数 = 6</span>
+<span class="thread-6">0016|  0.010s| 6|タスク受付: task_id=6</span>
+<span class="thread-6">0017|  0.011s| 6|HTTP 送信開始: GET http://127.0.0.1:7777/db/delay/6</span>
+<span class="thread-2">0018|  0.011s| 2|タスク受付: task_id=2</span>
+<span class="thread-2">0019|  0.013s| 2|HTTP 送信開始: GET http://127.0.0.1:7777/db/delay/2</span>
+<span class="thread-5">0020|  0.014s| 5|HTTP 送信開始: GET http://127.0.0.1:7777/db/delay/5</span>
+<span class="thread-4">0021|  3.014s| 4|HTTP 受信完了: status=200, size=267bytes, delay=3.008s</span>
+<span class="thread-4">0022|  3.014s| 4|JSON解析完了: name=ヒトカゲ</span>
+<span class="thread-4">0023|  3.015s| 4|結果格納: name=ヒトカゲ</span>
+<span class="thread-2">0024|  4.017s| 2|HTTP 受信完了: status=200, size=268bytes, delay=4.004s</span>
+<span class="thread-2">0025|  4.017s| 2|JSON解析完了: name=フシギソウ</span>
+<span class="thread-2">0026|  4.017s| 2|結果格納: name=フシギソウ</span>
+<span class="thread-3">0027|  5.011s| 3|HTTP 受信完了: status=200, size=271bytes, delay=5.007s</span>
+<span class="thread-3">0028|  5.011s| 3|JSON解析完了: name=フシギバナ</span>
+<span class="thread-3">0029|  5.011s| 3|結果格納: name=フシギバナ</span>
+<span class="thread-6">0030|  5.015s| 6|HTTP 受信完了: status=200, size=272bytes, delay=5.005s</span>
+<span class="thread-6">0031|  5.016s| 6|JSON解析完了: name=リザードン</span>
+<span class="thread-6">0032|  5.016s| 6|結果格納: name=リザードン</span>
+<span class="thread-5">0033|  5.018s| 5|HTTP 受信完了: status=200, size=267bytes, delay=5.004s</span>
+<span class="thread-5">0034|  5.018s| 5|JSON解析完了: name=リザード</span>
+<span class="thread-5">0035|  5.018s| 5|結果格納: name=リザード</span>
+<span class="thread-1">0036|  6.014s| 1|HTTP 受信完了: status=200, size=270bytes, delay=6.005s</span>
+<span class="thread-1">0037|  6.014s| 1|JSON解析完了: name=フシギダネ</span>
+<span class="thread-1">0038|  6.014s| 1|結果格納: name=フシギダネ</span>
+<span class="thread-6">0039|  6.014s| 6|終了要求受信</span>
+<span class="thread-3">0040|  6.015s| 3|終了要求受信</span>
+<span class="thread-4">0041|  6.015s| 4|終了要求受信</span>
+<span class="thread-1">0042|  6.015s| 1|終了要求受信</span>
+<span class="thread-2">0043|  6.016s| 2|終了要求受信</span>
+<span class="thread-5">0044|  6.016s| 5|終了要求受信</span>
+<span class="thread-4">0045|  6.016s| 4|結果出力: task_id=4, name=ヒトカゲ</span>
+<span class="thread-2">0046|  6.016s| 2|結果出力: task_id=2, name=フシギソウ</span>
+<span class="thread-3">0047|  6.016s| 3|結果出力: task_id=3, name=フシギバナ</span>
+<span class="thread-6">0048|  6.016s| 6|結果出力: task_id=6, name=リザードン</span>
+<span class="thread-5">0049|  6.016s| 5|結果出力: task_id=5, name=リザード</span>
+<span class="thread-1">0050|  6.016s| 1|結果出力: task_id=1, name=フシギダネ</span>
+<span class="thread-none">0051|  6.016s|--|完了</span>
+</pre></body></html>

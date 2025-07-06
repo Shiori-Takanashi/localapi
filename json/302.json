@@ -1,0 +1,14 @@
+{
+  "national_dex": 302,
+  "ja": "ヤミラミ",
+  "en": "sableye",
+  "type_first": "悪",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+  "base_h": 50,
+  "base_a": 75,
+  "base_b": 75,
+  "base_c": 65,
+  "base_d": 65,
+  "base_s": 50
+}

@@ -1,0 +1,14 @@
+{
+  "national_dex": 148,
+  "ja": "ハクリュー",
+  "en": "dragonair",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+  "base_h": 61,
+  "base_a": 84,
+  "base_b": 65,
+  "base_c": 70,
+  "base_d": 70,
+  "base_s": 70
+}

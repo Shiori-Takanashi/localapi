@@ -1,0 +1,14 @@
+{
+  "national_dex": 983,
+  "ja": "ドドゲザン",
+  "en": "kingambit",
+  "type_first": "悪",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png",
+  "base_h": 100,
+  "base_a": 135,
+  "base_b": 120,
+  "base_c": 60,
+  "base_d": 85,
+  "base_s": 50
+}

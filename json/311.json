@@ -1,0 +1,14 @@
+{
+  "national_dex": 311,
+  "ja": "プラスル",
+  "en": "plusle",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
+  "base_h": 60,
+  "base_a": 50,
+  "base_b": 40,
+  "base_c": 85,
+  "base_d": 75,
+  "base_s": 95
+}

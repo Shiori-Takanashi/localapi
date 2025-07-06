@@ -1,0 +1,14 @@
+{
+  "national_dex": 638,
+  "ja": "コバルオン",
+  "en": "cobalion",
+  "type_first": "鋼",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png",
+  "base_h": 91,
+  "base_a": 90,
+  "base_b": 129,
+  "base_c": 90,
+  "base_d": 72,
+  "base_s": 108
+}

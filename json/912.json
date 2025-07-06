@@ -1,0 +1,14 @@
+{
+  "national_dex": 912,
+  "ja": "クワッス",
+  "en": "quaxly",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png",
+  "base_h": 55,
+  "base_a": 65,
+  "base_b": 45,
+  "base_c": 50,
+  "base_d": 45,
+  "base_s": 50
+}

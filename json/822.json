@@ -1,0 +1,14 @@
+{
+  "national_dex": 822,
+  "ja": "アオガラス",
+  "en": "corvisquire",
+  "type_first": "飛",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png",
+  "base_h": 68,
+  "base_a": 67,
+  "base_b": 55,
+  "base_c": 43,
+  "base_d": 55,
+  "base_s": 77
+}

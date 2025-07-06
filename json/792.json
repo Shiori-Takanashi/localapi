@@ -1,0 +1,14 @@
+{
+  "national_dex": 792,
+  "ja": "ルナアーラ",
+  "en": "lunala",
+  "type_first": "超",
+  "type_second": "幽",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
+  "base_h": 137,
+  "base_a": 113,
+  "base_b": 89,
+  "base_c": 137,
+  "base_d": 107,
+  "base_s": 97
+}

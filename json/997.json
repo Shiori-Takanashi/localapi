@@ -1,0 +1,14 @@
+{
+  "national_dex": 997,
+  "ja": "セゴール",
+  "en": "arctibax",
+  "type_first": "竜",
+  "type_second": "氷",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/997.png",
+  "base_h": 90,
+  "base_a": 95,
+  "base_b": 66,
+  "base_c": 45,
+  "base_d": 65,
+  "base_s": 62
+}

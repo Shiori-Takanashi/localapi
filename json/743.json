@@ -1,0 +1,14 @@
+{
+  "national_dex": 743,
+  "ja": "アブリボン",
+  "en": "ribombee",
+  "type_first": "虫",
+  "type_second": "妖",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png",
+  "base_h": 60,
+  "base_a": 55,
+  "base_b": 60,
+  "base_c": 95,
+  "base_d": 70,
+  "base_s": 124
+}

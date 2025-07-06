@@ -1,0 +1,14 @@
+{
+  "national_dex": 50,
+  "ja": "ディグダ",
+  "en": "diglett",
+  "type_first": "地",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+  "base_h": 10,
+  "base_a": 55,
+  "base_b": 25,
+  "base_c": 35,
+  "base_d": 45,
+  "base_s": 95
+}

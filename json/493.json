@@ -1,0 +1,14 @@
+{
+  "national_dex": 493,
+  "ja": "アルセウス",
+  "en": "arceus",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
+  "base_h": 120,
+  "base_a": 120,
+  "base_b": 120,
+  "base_c": 120,
+  "base_d": 120,
+  "base_s": 120
+}

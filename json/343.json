@@ -1,0 +1,14 @@
+{
+  "national_dex": 343,
+  "ja": "ヤジロン",
+  "en": "baltoy",
+  "type_first": "地",
+  "type_second": "超",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png",
+  "base_h": 40,
+  "base_a": 40,
+  "base_b": 55,
+  "base_c": 40,
+  "base_d": 70,
+  "base_s": 55
+}

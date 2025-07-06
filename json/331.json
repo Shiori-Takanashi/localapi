@@ -1,0 +1,14 @@
+{
+  "national_dex": 331,
+  "ja": "サボネア",
+  "en": "cacnea",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
+  "base_h": 50,
+  "base_a": 85,
+  "base_b": 40,
+  "base_c": 85,
+  "base_d": 40,
+  "base_s": 35
+}

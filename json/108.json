@@ -1,0 +1,14 @@
+{
+  "national_dex": 108,
+  "ja": "ベロリンガ",
+  "en": "lickitung",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+  "base_h": 90,
+  "base_a": 55,
+  "base_b": 75,
+  "base_c": 60,
+  "base_d": 75,
+  "base_s": 30
+}

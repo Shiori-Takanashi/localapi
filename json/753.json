@@ -1,0 +1,14 @@
+{
+  "national_dex": 753,
+  "ja": "カリキリ",
+  "en": "fomantis",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png",
+  "base_h": 40,
+  "base_a": 55,
+  "base_b": 35,
+  "base_c": 50,
+  "base_d": 35,
+  "base_s": 35
+}

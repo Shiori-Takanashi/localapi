@@ -1,0 +1,14 @@
+{
+  "national_dex": 22,
+  "ja": "オニドリル",
+  "en": "fearow",
+  "type_first": "普",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+  "base_h": 65,
+  "base_a": 90,
+  "base_b": 65,
+  "base_c": 61,
+  "base_d": 61,
+  "base_s": 100
+}

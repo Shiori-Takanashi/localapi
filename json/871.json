@@ -1,0 +1,14 @@
+{
+  "national_dex": 871,
+  "ja": "バチンウニ",
+  "en": "pincurchin",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png",
+  "base_h": 48,
+  "base_a": 101,
+  "base_b": 95,
+  "base_c": 91,
+  "base_d": 85,
+  "base_s": 15
+}

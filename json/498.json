@@ -1,0 +1,14 @@
+{
+  "national_dex": 498,
+  "ja": "ポカブ",
+  "en": "tepig",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png",
+  "base_h": 65,
+  "base_a": 63,
+  "base_b": 45,
+  "base_c": 45,
+  "base_d": 45,
+  "base_s": 45
+}

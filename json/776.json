@@ -1,0 +1,14 @@
+{
+  "national_dex": 776,
+  "ja": "バクガメス",
+  "en": "turtonator",
+  "type_first": "炎",
+  "type_second": "竜",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png",
+  "base_h": 60,
+  "base_a": 78,
+  "base_b": 135,
+  "base_c": 91,
+  "base_d": 85,
+  "base_s": 36
+}

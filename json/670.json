@@ -1,0 +1,14 @@
+{
+  "national_dex": 670,
+  "ja": "フラエッテ",
+  "en": "floette",
+  "type_first": "妖",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png",
+  "base_h": 54,
+  "base_a": 45,
+  "base_b": 47,
+  "base_c": 75,
+  "base_d": 98,
+  "base_s": 52
+}

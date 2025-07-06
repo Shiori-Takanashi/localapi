@@ -1,0 +1,14 @@
+{
+  "national_dex": 610,
+  "ja": "キバゴ",
+  "en": "axew",
+  "type_first": "竜",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png",
+  "base_h": 46,
+  "base_a": 87,
+  "base_b": 60,
+  "base_c": 30,
+  "base_d": 40,
+  "base_s": 57
+}

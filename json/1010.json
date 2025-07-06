@@ -1,0 +1,14 @@
+{
+  "national_dex": 1010,
+  "ja": "テツノイサハ",
+  "en": "iron-leaves",
+  "type_first": "草",
+  "type_second": "超",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1010.png",
+  "base_h": 90,
+  "base_a": 130,
+  "base_b": 88,
+  "base_c": 70,
+  "base_d": 108,
+  "base_s": 104
+}

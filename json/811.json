@@ -1,0 +1,14 @@
+{
+  "national_dex": 811,
+  "ja": "バチンキー",
+  "en": "thwackey",
+  "type_first": "草",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/811.png",
+  "base_h": 70,
+  "base_a": 85,
+  "base_b": 70,
+  "base_c": 55,
+  "base_d": 60,
+  "base_s": 80
+}

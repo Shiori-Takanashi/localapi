@@ -1,0 +1,14 @@
+{
+  "national_dex": 267,
+  "ja": "アゲハント",
+  "en": "beautifly",
+  "type_first": "虫",
+  "type_second": "飛",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+  "base_h": 60,
+  "base_a": 70,
+  "base_b": 50,
+  "base_c": 100,
+  "base_d": 50,
+  "base_s": 65
+}

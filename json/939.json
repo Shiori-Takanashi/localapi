@@ -1,0 +1,14 @@
+{
+  "national_dex": 939,
+  "ja": "ハラバリー",
+  "en": "bellibolt",
+  "type_first": "電",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/939.png",
+  "base_h": 109,
+  "base_a": 64,
+  "base_b": 91,
+  "base_c": 103,
+  "base_d": 83,
+  "base_s": 45
+}

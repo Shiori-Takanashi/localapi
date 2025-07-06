@@ -1,0 +1,14 @@
+{
+  "national_dex": 62,
+  "ja": "ニョロボン",
+  "en": "poliwrath",
+  "type_first": "水",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+  "base_h": 90,
+  "base_a": 95,
+  "base_b": 95,
+  "base_c": 70,
+  "base_d": 90,
+  "base_s": 70
+}

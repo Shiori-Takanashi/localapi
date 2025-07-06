@@ -1,0 +1,14 @@
+{
+  "national_dex": 433,
+  "ja": "リーシャン",
+  "en": "chingling",
+  "type_first": "超",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png",
+  "base_h": 45,
+  "base_a": 30,
+  "base_b": 50,
+  "base_c": 65,
+  "base_d": 50,
+  "base_s": 45
+}

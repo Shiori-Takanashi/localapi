@@ -1,0 +1,14 @@
+{
+  "national_dex": 295,
+  "ja": "バクオング",
+  "en": "exploud",
+  "type_first": "普",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+  "base_h": 104,
+  "base_a": 91,
+  "base_b": 63,
+  "base_c": 91,
+  "base_d": 73,
+  "base_s": 68
+}

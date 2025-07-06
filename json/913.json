@@ -1,0 +1,14 @@
+{
+  "national_dex": 913,
+  "ja": "ウェルカモ",
+  "en": "quaxwell",
+  "type_first": "水",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/913.png",
+  "base_h": 70,
+  "base_a": 85,
+  "base_b": 65,
+  "base_c": 65,
+  "base_d": 60,
+  "base_s": 65
+}

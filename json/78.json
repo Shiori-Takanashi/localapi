@@ -1,0 +1,14 @@
+{
+  "national_dex": 78,
+  "ja": "ギャロップ",
+  "en": "rapidash",
+  "type_first": "炎",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+  "base_h": 65,
+  "base_a": 100,
+  "base_b": 70,
+  "base_c": 80,
+  "base_d": 80,
+  "base_s": 105
+}

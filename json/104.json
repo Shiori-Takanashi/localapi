@@ -1,0 +1,14 @@
+{
+  "national_dex": 104,
+  "ja": "カラカラ",
+  "en": "cubone",
+  "type_first": "地",
+  "type_second": null,
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+  "base_h": 50,
+  "base_a": 50,
+  "base_b": 95,
+  "base_c": 40,
+  "base_d": 50,
+  "base_s": 35
+}

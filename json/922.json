@@ -1,0 +1,14 @@
+{
+  "national_dex": 922,
+  "ja": "パモット",
+  "en": "pawmo",
+  "type_first": "電",
+  "type_second": "格",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/922.png",
+  "base_h": 60,
+  "base_a": 75,
+  "base_b": 40,
+  "base_c": 50,
+  "base_d": 40,
+  "base_s": 85
+}

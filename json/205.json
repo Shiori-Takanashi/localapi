@@ -1,0 +1,14 @@
+{
+  "national_dex": 205,
+  "ja": "フォレトス",
+  "en": "forretress",
+  "type_first": "虫",
+  "type_second": "鋼",
+  "front_default_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+  "base_h": 75,
+  "base_a": 90,
+  "base_b": 140,
+  "base_c": 60,
+  "base_d": 60,
+  "base_s": 40
+}
